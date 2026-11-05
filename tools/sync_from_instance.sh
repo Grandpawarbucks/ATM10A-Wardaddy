@@ -5,7 +5,16 @@
 # Usage: tools/sync_from_instance.sh [path-to-instance]
 set -euo pipefail
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
-INST="${1:-$HOME/Documents/curseforge/minecraft/Instances/All the Mods 10 Aeronautics ATM10A}"
+REL="curseforge/minecraft/Instances/All the Mods 10 Aeronautics ATM10A"
+if [ -n "${1:-}" ]; then INST="$1"
+else
+  # Normal location, or the subfolder macOS uses after iCloud "Desktop & Documents" is turned on.
+  INST=""
+  for cand in "$HOME/Documents/$REL" "$HOME/Documents/Documents - "*"/$REL"; do
+    [ -d "$cand" ] && INST="$cand" && break
+  done
+  [ -n "$INST" ] || { echo "Instance not found; pass its path as the first argument." >&2; exit 1; }
+fi
 PACKWIZ="$(command -v packwiz || echo "$HOME/go/bin/packwiz")"
 for d in config defaultconfigs kubejs; do
   rsync -a --delete \
