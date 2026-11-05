@@ -233,10 +233,6 @@ file = "config/allthetweaks-common.toml"
 hash = "cebdf149e87bde6a25986e94ce6ed2139a19df69b7771f07e0d6536176913a7d"
 
 [[files]]
-file = "config/almostunified/debug.json"
-hash = "435ad46870d033c8652097d64c6ec592907e5ab6f1877240532a6a1743d4fca5"
-
-[[files]]
 file = "config/almostunified/duplicates.json"
 hash = "903b98b7a294011b745824f3d99ede41cf67af23fb405e2c62a2e50938c5e806"
 
