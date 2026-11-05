@@ -1,0 +1,29 @@
+{
+	quest.0E02CE4469FCA4C9.quest_desc: ["Redstone Activation memberikan spawner kamu saklar on/off. Tanpa daya Redstone, spawner tidak akan memunculkan mob."]
+	quest.0E02CE4469FCA4C9.title: "Redstone Active"
+	quest.0F89BFD4A3F63A48.quest_desc: ["Beberapa mob (terutama monster) butuh Tingkat Cahaya (Light Level) tertentu untuk muncul. Mob agresif butuh tingkat cahaya rendah, sedangkan yang pasif butuh yang tinggi. Menggunakan Soul Lantern membuatmu tidak perlu khawatir lagi soal cahaya karena spawner akan mengabaikannya! Ini tidak mengabaikan syarat lain, seperti hewan ternak yang tetap butuh rumput (Grass)."]
+	quest.0F89BFD4A3F63A48.title: "Abaikan Cahaya"
+	quest.167E1474644C9908.quest_desc: ["Quartz memberikan efek kebalikan dari item modifikasi spawner lainnya. Dengan Quartz di tangan kiri (offhand) dan item modifikasi lain di tangan utama, efeknya akan terbalik. Contohnya, menggunakan Quartz dan Blaze Rod akan mengurangi Spawn Range, bukannya menambah. Begitu juga dengan Ghast Tear yang akan mengurangi Max Entities jika digabung dengan Quartz."]
+	quest.167E1474644C9908.title: "Hari Kebalikan"
+	quest.186593EBCE3FE8D8.quest_desc: ["Spawn Range adalah luas area di mana mob bisa muncul. Semakin besar areanya, semakin banyak ruang bagi mereka untuk muncul. Semakin kecil areanya, semakin hemat tempat untuk pabrik mob kamu."]
+	quest.186593EBCE3FE8D8.title: "Spawn Range"
+	quest.18E0F5A78F696FA3.quest_desc: ["Echo Shard memberikan efek spesial pada spawner. Setiap mob yang muncul akan memiliki jumlah loot yang berlipat ganda saat dijatuhkan."]
+	quest.18E0F5A78F696FA3.title: "Echoing"
+	quest.2FE4B7B70D90A455.quest_desc: ["Quest ini ditulis oleh &6Staf AllTheMods&r, atau &2Kontributor Komunitas&r untuk digunakan dalam Modpack AllTheMods.\\n\\nKarena semua pack &6AllTheMods&r dilisensikan di bawah &eAll Rights Reserved&r, quest ini tidak diperbolehkan untuk digunakan dalam pack publik mana pun yang tidak dirilis oleh &6Tim AllTheMods&r tanpa izin eksplisit.\\n\\nQuest ini sengaja disembunyikan; jika kamu melihat ini, berarti kamu sedang dalam mode pengeditan."]
+	quest.30EB438C66324213.quest_desc: ["Nether Star fungsinya sama seperti Prismarine Shard tapi jauh lebih hebat. Pemain tidak perlu lagi berada di dekat spawner. Selama chunk tersebut dimuat (chunk-loaded), spawner akan terus aktif."]
+	quest.30EB438C66324213.title: "Abaikan Pemain"
+	quest.310969B8FE0A94DE.quest_desc: ["Perubahan mekanisme lain yang dibawa oleh Apotheosis adalah pada Spawner. Ingat saat kita bisa menambang Spawner pakai Silk Touch? Nah, fitur itu balik lagi berkat Apotheosis! Ada juga banyak modifikasi baru yang bisa kamu tambahkan ke Spawner dengan klik kanan menggunakan item-item tertentu."]
+	quest.310969B8FE0A94DE.title: "Apothic Spawner"
+	quest.40096ED0B04C3EC5.quest_desc: ["Modifikasi wajib untuk semua Spawner. Saat deskripsinya bilang 'mengabaikan semua syarat', itu artinya hampir semua. Mengabaikan tingkat cahaya, blok yang dibutuhkan untuk spawn, hingga biome. Syarat ruang tetap dibutuhkan, seperti Slime yang butuh area 3x3 untuk muncul, begitu juga pemain yang tetap harus berada di dekatnya (kecuali pakai modifikasi lain)."]
+	quest.40096ED0B04C3EC5.title: "Abaikan Semua Syarat"
+	quest.42D7C8CD8E6F5CD7.quest_desc: ["Dengan menggunakan Chorus Fruit pada Spawner, kamu menyedot jiwa dari mob yang akan muncul, meninggalkan mereka hanya sebagai cangkang kosong. Mob tersebut akan kehilangan semua AI (kecerdasan buatan), jadi mereka cuma akan diam seperti armor stand. Mereka nggak bisa memukulmu, nggak bisa teleportasi, dan nggak bisa bergerak sendiri. Mereka cuma duduk manis menunggu buat dibunuh, seru kan!"]
+	quest.42D7C8CD8E6F5CD7.title: "Tanpa AI"
+	quest.4F7F8F4ED1CA0550.quest_desc: ["Campfire yang digunakan pada spawner akan membuat mob muncul dalam keadaan terbakar. Cocok banget buat dapet Steak matang."]
+	quest.4F7F8F4ED1CA0550.title: "Membakar"
+	quest.6F71FD826C29C31A.quest_desc: ["Fitur ini mungkin baru buat kamu yang baru balik main dari versi lama. Dengan menggunakan Turtle Egg pada spawner, mob yang muncul cuma versi bayinya saja. Ini cuma berlaku untuk mob versi bayi asli dari Vanilla, bukan dari mod."]
+	quest.6F71FD826C29C31A.title: "Awet Muda"
+	quest.7F6B66566C211735.quest_desc: ["Dripstone yang digunakan pada spawner akan mengurangi darah maksimal (max health) dari mob yang muncul. Ini bisa menurunkan darah mereka hingga serendah 20%."]
+	quest.7F6B66566C211735.title: "Kesehatan"
+	task.3B219688DA1CF9C8.title: "Hak Cipta Dilindungi"
+	task.73B56F2139A98F77.title: "Hak Cipta Dilindungi"
+}

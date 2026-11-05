@@ -1,0 +1,1163 @@
+{
+	"chapters/tips_and_tricks.snbt": {
+		quest.47043AF7D1FABC43.quest_desc: {
+			new: [
+				"There's many ways to extract Enchantments from Items onto Books. This quest will focus on many of such methods.\\n\\n&cSuper Factory Manager&r: One of the cheapest ways I can think of to disenchant your gear, with no &aExperience&r cost whatsoever. Drop your Enchanted Item and a bunch of Books on a block of &5Obsidian&r, then make a falling &8Anvil&r land on top of the Enchanted Item and the Books.\\n\\n&bDis-Enchanting Table&r: Simply put an Enchanted Item in the Left Slot and a Book in the Middle Slot. Then, the Enchants will go to the Right Slot in Book form! Costs &aExperience&r.\\nYou can also use Enchanted Books instead of the Item to split up its Enchantments.\\n\\n&6Draconic Evolution Disenchanter&r: This one lets you choose a specific enchantment from an Enchanted Item to move to a Book. Costs &aExperience&r."
+				"{@pagebreak}"
+				"&cEvilCraft Purifier and Blook&r: Uses &cBlood&r to extract enchantments from an Enchanted Item onto a &cBlook&r.\\n\\n&5&lApothic Enchanting Tomes&r: When used in an anvil, these will extract all enchantments from the Enchanted Item.\\nThe &8Tome of Scrapping&r only extracts half of the enchantments from the Item, destroying that item in the process.\\nThe &8Tome of Superior Scrapping&r extracts all enchantments from the Item, destroying that item in the process.\\nThe &8Tome of Extraction&r extracts all enchantments from the Item, keeping the item in the process.\\nCheck out the &5&lApothic Enchanting&r chapter to learn more about how to infuse these Tomes.\\n\\n&bIndustrial Foregoing Enchantment Extractor&r: Recommended for automated disenchanting. Place an Enchanted Item and Books into the machine, and it will extract Enchantments from the Item. You can also have the enchantments be turned into &aEssence&r instead, if you prefer.\\n\\n&5Actually Additions Lens of Disenchanting&r: These Lens go into an Atomic Reconstructor. Throw an Enchanted Item and a single Book in front of the Laser that the Atomic Reconstructor emits, and it will separate a single Enchantment from the Item onto the Book"
+			]
+			old: [
+				"There's many ways to extract Enchantments from Items onto Books. This quest will focus on many of such methods.\\n\\n&cSuper Factory Manager&r: One of the cheapest ways I can think of to disenchant your gear, with no &aExperience&r cost whatsoever. Drop your Enchanted Item and a bunch of Books on a block of &5Obsidian&r, then make a falling &8Anvil&r land on top of the Enchanted Item and the Books.\\n\\n&bDis-Enchanting Table&r: Simply put an Enchanted Item in the Left Slot and a Book in the Middle Slot. Then, the Enchants will go to the Right Slot in Book form! Costs &aExperience&r.\\nYou can also use Enchanted Books instead of the Item to split up its Enchantments.\\n\\n&6Draconic Evolution Disenchanter&r: This one lets you choose a specific enchantment from an Enchanted Item to move to a Book. Costs &aExperience&r."
+				"{@pagebreak}"
+				"&cEvilCraft Purifier and Blook&r: Uses &cBlood&r to extract enchantments from an Enchanted Item onto a &cBlook&r.\\n\\n&5&lApothic Enchanting Tomes&r: When used in an anvil, these will extract all enchantments from the Enchanted Item.\\nThe &8Tome of Scrapping&r only extracts half of the enchantments from the Item, destroying that item in the process.\\nThe &8Tome of Superior Scrapping&r extracts all enchantments from the Item, destroying that item in the process.\\nThe &8Tome of Extraction&r extracts all enchantments from the Item, keeping the item in the process.\\nCheck out the &5&lApothic Enchanting&r chapter to learn more about how to infuse these Tomes.\\n\\n&bIndustrial Foregoing Enchantment Extractor&r: Recommended for automated disenchanting. Place an Enchanted Item and Books into the machine, and it will extract Enchantments from the Item. You can also have the enchantments be turned into &aEssence&r instead, if you prefer.\\n\\n&8Corail Tombstone Book of Disenchantment&r: Occasionally, Decorative Graves will have a Grave Soul roaming them. You can right click on that Grave Soul with the Book in your offhand and an Enchanted Item in your main hand, and it may strip those enchantments and return them as books. Will corrupt the Grave slightly, so be careful with this method.\\n\\n&5Actually Additions Lens of Disenchanting&r: These Lens go into an Atomic Reconstructor. Throw an Enchanted Item and a single Book in front of the Laser that the Atomic Reconstructor emits, and it will separate a single Enchantment from the Item onto the Book"
+			]
+		}
+	}
+	"chapters/elmystical_agriculturerr.snbt": {
+		image.26CF1BB4714A782E.title: {
+			new: "Supremium Watering Can"
+			old: "Regador Suprêmio"
+		}
+		image.17F3F3EC2F3CF866.title: {
+			new: "Machine Frame"
+			old: "Chassi de Máquina"
+		}
+		image.732F32D55E7EC2CD.title: {
+			new: "Awakened Supremium Machine Upgrade"
+			old: "Atualização de Máquina Suprêmio Despertada"
+		}
+		image.7471FCFF6684EA8B.title: {
+			new: "Inferium Machine Upgrade"
+			old: "Atualização de Máquina Infério"
+		}
+		image.04BECD7AD8A41E3D.title: {
+			new: "Prudentium Watering Can"
+			old: "Regador Prudêncio"
+		}
+		image.558C038DD5F819D9.title: {
+			new: "Prudentium Machine Upgrade"
+			old: "Atualização de Máquina Prudêncio"
+		}
+		image.74D93D051E3DDE39.title: {
+			new: "Tertium Watering Can"
+			old: "Regador Tértio"
+		}
+		image.2476056FD4A4FBC8.title: {
+			new: "Imperium Machine Upgrade"
+			old: "Atualização de Máquina Imperita"
+		}
+		image.67DEC8CDB70FC46C.title: {
+			new: "Imperium Watering Can"
+			old: "Regador Imperita"
+		}
+		image.3A01454B7B3D5F41.title: {
+			new: "Inferium Watering Can"
+			old: "Regador Infério"
+		}
+		image.3DB1AFCC24A14147.title: {
+			new: "Tertium Machine Upgrade"
+			old: "Atualização de Máquina Tértio"
+		}
+	}
+	file.snbt: {
+		file.0000000000000001.title: {
+			new: "All The Mods 10 - Aeronautics Edition"
+			old: "All The Mods 10"
+		}
+	}
+	"chapters/mainquestline_part_1.snbt": {
+		quest.5792CC9E3AFAB229.quest_desc: {
+			new: ["We also have the mod called &eExcessive Utilities&r! This mod adds, among other things, unique generators that use coal or other items."]
+			old: ["We also have the mod called &aGenerators Galore&r! This mod adds unique generators that use coal or other items."]
+		}
+		quest.5CF320E9C4C1B1E1.quest_desc: {
+			new: ["ATM10 Aeronautics is a &aKitchensink&r pack, meaning you are free to explore and play the modpack any way that you want!\\n\\nHowever, there is an endgame goal: Making the &6ATM Star&r!\\n\\nThis questline serves as a guide for all players, whether you are brand new to Minecraft or you've played through previous ATM packs.\\n\\nJust like almost every modpack, gather some wood to get started!"]
+			old: ["ATM10 is a &aKitchensink&r pack, meaning you are free to explore and play the modpack any way that you want!\\n\\nHowever, there is an endgame goal: Making the &6ATM Star&r!\\n\\nThis questline serves as a guide for all players, whether you are brand new to Minecraft or you've played through previous ATM packs.\\n\\nJust like almost every modpack, gather some wood to get started!"]
+		}
+		quest.790EC3EDC2DB1FB0.title: {
+			new: "More Excessive Utilities Generators"
+			old: "Generators Galore"
+		}
+	}
+	"chapters/mi_electric.snbt": {
+		quest.1B4CD5AC8F6C3307.quest_desc: {
+			new: ["The &#4497DBOverdrive module&r preserves the efficiency of the machine even when the recipe is not currently running. In return, it locks the machine to its current recipe and makes it always use power."]
+			old: ["The &#4497DBOverdrive module&r preserves the efficiency of the machine even when the recipe is not currently running. In return it locks the machine for the recipe."]
+		}
+	}
+	"chapters/apotheosis_2.snbt": {
+		quest.7F6B66566C211735.quest_desc: {
+			new: ["Runes of Debilitation used on the spawner will reduce the max health of the mob spawned. This can decrease their health to as low as 20%"]
+			old: ["Dripstone used on the spawner will reduce the max health of the mob spawned. This can decrease their health to as low as 20%"]
+		}
+		quest.18E0F5A78F696FA3.quest_desc: {
+			new: ["Runes of Echoes give a special effect to the spawner. Any mobs spawned will have the loot that they drop multiplied."]
+			old: ["Echo shards give a special effect to the spawner. Any mobs spawned will have the loot that they drop multiplied."]
+		}
+		quest.42D7C8CD8E6F5CD7.quest_desc: {
+			new: ["By using a Rune of Stupor on a Spawner you suck the souls out the mobs that will be spawned, only leaving a hollow husk of what they used to be. The mobs will lose all AI so they will do basically what an armor stand does. They can't hit you, can't teleport, can't move on their own. They sit there ready to be killed, how exciting!"]
+			old: ["By using a Chorus Fruit on a Spawner you suck the souls out the mobs that will be spawned, only leaving a hollow husk of what they used to be. The mobs will lose all AI so they will do basically what an armor stand does. They can't hit you, can't teleport, can't move on their own. They sit there ready to be killed, how exciting!"]
+		}
+		quest.30EB438C66324213.quest_desc: {
+			new: ["A Rune of Solitude will do part what the Spawner Upgrade Runes do but much better. Players no longer need to be near the spawner. As long as its chunk-loaded it will spawn."]
+			old: ["A Nether Star will do what the Prismarine Shards do but much better. Players no longer need to be near the spawner. As long as its chunk-loaded it will spawn."]
+		}
+		quest.4F7F8F4ED1CA0550.quest_desc: {
+			new: ["A Rune of Immolation used on the spawner will have the mobs spawn on fire. Perfect for a nice Steak."]
+			old: ["A Campfire used on the spawner will have the mobs spawn on fire. Perfect for a nice Steak."]
+		}
+		quest.167E1474644C9908.quest_desc: {
+			new: ["The Quartz makes whatever the other item does, it does the opposite for the Spawner. With Quartz in your offhand and the other Spawner Modification item in your main it will do the opposite of its role. With Quartz and Runes of Spawning Range instead of increasing Spawn Range it will decrease it. With Quartz and Runes of Debilitation it'll increase Starting Health."]
+			old: ["The Quartz makes whatever the other item does, it does the opposite for the Spawner. With Quartz in your offhand and the other Spawner Modification item in your main it will do the opposite of its role. With Quartz and Blaze Rods instead of increasing Spawn Range it will decrease it. With Quartz and Ghast Tears it'll decrease Max Entities."]
+		}
+		quest.0F89BFD4A3F63A48.quest_desc: {
+			new: ["Some mobs (mostly monsters) need certain Light Levels to spawn. Hostile ones needing lower levels and passive needing higher ones. Using a Rune of Perpetual Twilight makes it so you never have to worry about Light Levels as it ignores them! This does not ignore other requirements for spawning like livestock animals needing Grass."]
+			old: ["Some mobs (mostly monsters) need certain Light Levels to spawn. Hostile ones needing lower levels and passive needing higher ones. Using a Soul Lantern makes it so you never have to worry about Light Levels as it ignores them! This does not ignore other requirements for spawning like livestock animals needing Grass."]
+		}
+		quest.6F71FD826C29C31A.quest_desc: {
+			new: ["This one might be new to ones returning from earlier versions. By using a Rune of Youth on a Spawner, it will only spawn in baby versions of the mobs in it. This only works with Vanilla baby versions of mobs, not modded."]
+			old: ["This one might be new to ones returning from earlier versions. By using a turtle egg on a spawner, it will only spawn in baby versions of the mobs in it. This only works with Vanilla baby versions of mobs, not modded."]
+		}
+	}
+	"chapters/immersive_engineering.snbt": {
+		quest.4C4C9ADAC6107F89.quest_desc: {
+			new: ["The &eLight Engineering Block&r is pretty easy recipe. \\n\\nYou'll need 1 &6Copper Ingot&r, which I shouldn't have to explain it's literally a &2&lVanilla&r feature. \\n\\n4 &7Iron Sheetmetal&r, which are just 4 &7Iron Plates&r combined with each other! \\n\\nYou'll also need 4 &7Iron Mechanical Components&r, which are either 4 &7Iron Plates&r and a &6Copper Ingot&r in a Crafting Table, or 2 &7Iron Plates&r and a &6Copper Ingot&r in the &6Engineer's Workbench&r."]
+			old: ["The &eLight Engineering Block&r is pretty easy recipe. \\n\\nYou'll need 1 &6Copper Ingot&r, which I shouldn't have to explain it's literally a &2&lVanilla&r feature. \\n\\n4 &7Ironsheetmetal&r, which are just 4 &7Iron Plates&r combined with each other! \\n\\nYou'll also need 4 &7Iron Mechanical Components&r, which are either 4 &7Iron Plates&r and a &6Copper Ingot&r in a Crafting Table, or 2 &7Iron Plates&r and a &6Copper Ingot&r in the &6Engineer's Workbench&r."]
+		}
+	}
+	"chapters/basic_power.snbt": {
+		quest.0BB367839D28607D.quest_desc: {
+			new: ["These &8Coal Generators&r are some of the easiest generators to make.\\n\\nThey are very simple to use and create a decent amount of power based on the combustible material you put in. They also automatically distribute power to adjacent blocks."]
+			old: ["These &8Coal Generators&r are some of the easiest generators to make.\\n\\nThey are very simple to use and create a decent amount of power based on the combustible material you put in. They also automatically distributes power to adjacent blocks."]
+		}
+		quest.1EECA19DF9CF6A0C.quest_desc: {
+			new: ["Flux Dust can also be automated using &6XyCraft&r!\\n\\nPlace crying obsidian on bedrock, surround the crystal block with 4 obsidian on all sides and place the extractor on top.\\nThen just place a storage on top of the extractor and you're done!"]
+			old: ["Flux Dust can also be automated using &6XyCraft&r!\\n\\nPlace a charged redstone crystal block on bedrock, surround the crystal block with 4 obsidian on all sides and place the extractor on top.\\nThen just place a storage on top of the extractor and you're done!"]
+		}
+		quest.0BB42C5861B22D32.title: {
+			new: "&9Excessive Utilities: &zRainbow Generator"
+			old: "&9Industrial Foregoing: &bMycelial Reactor"
+		}
+		quest.2D4749DF9642F334.quest_desc: {
+			new: ["The &eDyson Cube&r is the ultimate power source, producing an insane &l&a100MFE/t&r&r!\\n\\nSet up an &eEM Rail Ejector Controller&r to launch &bSolar Sails&r and &bBeams&r into orbit around the Sun. You can input items &bautomatically&r through the center of the bottom face (you’ll definitely need automation to reach maximum power output). Unfortunately, it &ocannot fire&r at midday, at night, or during rain.\\n\\nTo collect that glorious energy, build a &bRay Receiver Controller&r. It outputs power from the center of its bottom face but &ocannot receive power&r during &enight&r or &erain&r.\\n\\nYou can &epackage&r beams and sails into bundles for faster launches, which is much easier than sending them one by one.\\n\\nFor maximum output, you’ll need to send &c833,333&r beams and &c4,999,998&r sails into orbit, which is quite a lot.\\n\\nBefore you start scaling up to that level, make sure you’ve got some &arobust resource generation&r in place."]
+			old: [
+				"The &eDyson Cube&r is the ultimate power source, producing an insane &l&a1GFE/t&r&r!"
+				""
+				"Set up an &eEM Rail Ejector Controller&r to launch &bSolar Sails&r and &bBeams&r into orbit around the Sun. You can input items &bautomatically&r through the center of the bottom face (you’ll definitely need automation to reach maximum power output). Unfortunately, it &ocannot fire&r at midday, at night, or during rain."
+				""
+				"To collect that glorious energy, build a &bRay Receiver Controller&r. It outputs power from the center of its bottom face but &ocannot receive power&r during &enight&r or &erain&r."
+				""
+				"You can &epackage&r beams and sails into bundles for faster launches, which is much easier than sending them one by one."
+				""
+				"For maximum output, you’ll need to send &c8,333,333&r beams and &c49,999,998&r sails into orbit, which is quite a lot."
+				""
+				"Before you start scaling up to that level, make sure you’ve got some &arobust resource generation&r in place."
+			]
+		}
+		quest.0BB42C5861B22D32.quest_desc: {
+			new: ["The &zRainbow Generator&r consists of all the Generators from &e&lExcessive Utilities&r working at the same time, and it produces a total of &a25MFE/t&r.\\n\\nAll sounds good, but you need to automate some stuff to get it working, see what each Generator consumes to work, and automate it, most things are simple, but others, not that much... &olooking at Disenchantment Generator&r."]
+			old: ["The &bMycelial Reactor&r consists of all the Mycelial Generators working at the same time, near the reactor block, and it produces a total of &a25MFE/t&r.\\n\\nAll sounds good, but you need to automate some stuff to get it working, see what each Mycelial Generator consumes to work, and automate it, most things are simple, but others, not that much... &olooking at Disenchanting Mycelial Generator&r.\\n\\nBut after you get it all automated, you don't need to stop at one, you can make more reactors."]
+		}
+		quest.0BB42C5861B22D32.quest_subtitle: {
+			new: "With your powers combined!"
+			old: "It's not Yourcelial Reactor"
+		}
+		quest.43D83CFA824B0A70.quest_desc: {
+			new: ["&9Mekanism&r has an end game power option that is...massively nerfed. The &dFusion Reactor&r can produce up to 400kRF/t, and if you want to learn how to build it, make sure to check out the &aMekanism: &dReactors&r quest chapter!"]
+			old: ["&9Mekanism&r has an end game power option that is tough to beat. The &dFusion Reactor&r can produce up to 80MRF/t, and if you want to learn how to build it, make sure to check out the &aMekanism: &dReactors&r quest chapter!"]
+		}
+	}
+	"chapters/industrial_foregoing.snbt": {
+		quest.538186D01429F05F.quest_desc: {
+			new: [
+				"In this quest, we will be focusing on using AE2 to automate the &cPotion Brewer&r. First, build a setup like so:"
+				"{image:atm:textures/questpics/industrialforegoing/potionbrewerdemonstration.png width:175 height:200 align:center}"
+				"(The Creative Energy Cell serves as a placeholder for your main network)"
+				"{@pagebreak}"
+				"We'll need either an &9Export Bus&r or an &9Interface&r to fill the &cPotion Brewer&r with &1Water&r and &6Blaze Powder&r. The &6Blaze Powder&r will be used as fuel. Do not provide bottles yet, as they will fill your network with Water Bottles."
+				"{@pagebreak}"
+				"The next step will be to get an"
+				"&5Advanced Pattern Provider&r. Check the Extended \\& Advanced AE chapter to learn more about how to use it. Next, we'll need to encode a pattern. An example will be to brew a &4Potion of Healing&r, focused on Royal Treats for Modular Bees. Encode the pattern like so: 3 Glass Bottles, 1 Nether Wart, 1 Glistering Melon Slice, to produce 3 &4Potions of Healing&r. We'll be using both of the &5Advanced Provider&r's special abilities here. First is its ability to send items to a specific side. We'll be using this to send Glass Bottles to the TOP side of the machine. Use the &5Advanced Pattern Encoder&r to encode the pattern, like so:"
+				"{image:atm:textures/questpics/industrialforegoing/advanced_pattern.png width:200 height:100 align:center}"
+				"{@pagebreak}"
+				"Next, we need to enable Filtered Import on the &5Advanced Provider&r. This will make it so that the &5Advanced Provider&r only accepts items that match currently active crafting jobs. This means it won't accept potions prematurely. You can also add Processing Addons to aid with this, especially with large enough crafting jobs that may use that same provider.\\n\\nLastly, you'll have to configure the sides of the Potion Brewer like so:"
+				"{image:atm:textures/questpics/industrialforegoing/blaze_input.png width:125 height:100 align:center}"
+				"{image:atm:textures/questpics/industrialforegoing/bottle_input.png width:125 height:100 align:center}"
+				"{image:atm:textures/questpics/industrialforegoing/brewing_input.png width:125 height:100 align:center}"
+				"{image:atm:textures/questpics/industrialforegoing/output.png width:125 height:100 align:center}"
+				"If you're using the &9Interface&r method, configure the sides like so:"
+				"{image:atm:textures/questpics/industrialforegoing/blaze_input_for_interface.png width:125 height:100 align:center}"
+				"{image:atm:textures/questpics/industrialforegoing/water_for_interface.png width:125 height:100 align:center}"
+				"{@pagebreak}"
+				"Optionally, you can place a Flat Transfer Node between the &5Advanced Provider&r and the &cBrewer&r.\\n\\nIf you're still confused by this setup, or would rather watch a video, check out the video I have linked here, from ChosenArchitect:"
+				"{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://youtu.be/DOW4xkxqp6g?si=paZ2xFKyycPumqaS&t=427\"},\"color\":\"blue\",\"text\":\"VIDEO LINK HERE\",\"underlined\":true} "
+			]
+			old: [
+				"In this quest, we will be focusing on using AE2 to automate the &cPotion Brewer&r. First, build a setup like so:"
+				"{image:atm:textures/questpics/industrialforegoing/potionbrewerdemonstration.png width:175 height:200 align:center}"
+				"(The Creative Energy Cell serves as a placeholder for your main network)"
+				"{@pagebreak}"
+				"We'll need either an &9Export Bus&r or an &9Interface&r to fill the &cPotion Brewer&r with &1Water&r and &6Blaze Powder&r. The &6Blaze Powder&r will be used as fuel. Do not provide bottles yet, as they will fill your network with Water Bottles."
+				"{@pagebreak}"
+				"The next step will be to get an"
+				"&5Advanced Pattern Provider&r. Check the Extended \\& Advanced AE chapter to learn more about how to use it. Next, we'll need to encode a pattern. An example will be to brew a &4Potion of Healing&r, focused on Royal Treats for Modular Bees. Encode the pattern like so: 3 Glass Bottles, 1 Nether Wart, 1 Glistering Melon Slice, to produce 3 &4Potions of Healing&r. We'll be using both of the &5Advanced Provider&r's special abilities here. First is its ability to send items to a specific side. We'll be using this to send Glass Bottles to the TOP side of the machine. Use the &5Advanced Pattern Encoder&r to encode the pattern, like so:"
+				"{image:atm:textures/questpics/industrialforegoing/advanced_pattern.png width:200 height:100 align:center}"
+				"{@pagebreak}"
+				"Next, we need to enable Filtered Import on the &5Advanced Provider&r. This will make it so that the &5Advanced Provider&r only accepts items that match currently active crafting jobs. This means it won't accept potions prematurely. You can also add Processing Addons to aid with this, especially with large enough crafting jobs that may use that same provider.\\n\\nLastly, you'll have to configure the sides of the Potion Brewer like so:"
+				"{image:atm:textures/questpics/industrialforegoing/blaze_input.png width:125 height:100 align:center}"
+				"{image:atm:textures/questpics/industrialforegoing/bottle_input.png width:125 height:100 align:center}"
+				"{image:atm:textures/questpics/industrialforegoing/brewing_input.png width:125 height:100 align:center}"
+				"{image:atm:textures/questpics/industrialforegoing/output.png width:125 height:100 align:center}"
+				"If you're using the &9Interface&r method, configure the sides like so:"
+				"{image:atm:textures/questpics/industrialforegoing/blaze_input_for_interface.png width:125 height:100 align:center}"
+				"{image:atm:textures/questpics/industrialforegoing/water_for_interface.png width:125 height:100 align:center}"
+				"{@pagebreak}"
+				"Optionally, you can place a Transfer Label between the &5Advanced Provider&r and the &cBrewer&r.\\n\\nIf you're still confused by this setup, or would rather watch a video, check out the video I have linked here, from ChosenArchitect:"
+				"{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://youtu.be/DOW4xkxqp6g?si=paZ2xFKyycPumqaS&t=427\"},\"color\":\"blue\",\"text\":\"VIDEO LINK HERE\",\"underlined\":true} "
+			]
+		}
+	}
+	"chapters/welcome.snbt": {
+		quest.3BC0A50886A3222B.title: {
+			new: "&dWelcome to All The Mods 10 - Aeronautics Edition!"
+			old: "&dWelcome to All The Mods 10!"
+		}
+		image.33BF690417B5AAF7.title: {
+			new: "Join the Discord!"
+			old: "Entre no Discord!"
+		}
+		quest.3BC0A50886A3222B.quest_desc: {
+			new: ["ATM10 Aeronautics is a kitchensink pack that allows you to explore the world of modded Minecraft in your own way!\\n\\nIf you have any questions or issues, feel free to join the ATM discord!"]
+			old: ["ATM10 is a kitchensink pack that allows you to explore the world of modded Minecraft in your own way!\\n\\nIf you have any questions or issues, feel free to join the ATM discord!"]
+		}
+	}
+	"chapters/undergarden.snbt": {
+		quest.073BA8470EA37A00.quest_desc: {
+			new: [
+				"Another Sea, just this one is much colder."
+				"{image:atm:textures/questpics/undergarden/undergarden_icy.png width:200 height:100 align:center}"
+			]
+			old: [
+				"Another Sea, just this one is much colder."
+				"{image:atm:textures/questpics/undergarden/undergarden_icey.png width:200 height:100 align:center}"
+			]
+		}
+		quest.30582B5FBED35FD1.quest_desc: {
+			new: ["&cUtheric Clusters&r and &cShards&r can be Dropped by multiple different Mobs, especially the &cRot&r Monsters. \\n\\n9 &cShards&r make 1 &cCluster&r. \\n\\nWe will then need to use an Infuser to combine &3Rogdorium&r and a &cUtheric Cluster&r to Craft &cUtheric Crystal&r."]
+			old: ["&cUtherium&r can either be Mined or dropped from &cRot Mobs&r. "]
+		}
+		quest.53FDC6C536E50A1A.quest_desc: {
+			new: ["&bGwiblings&r are friendly fish in the Seas. \\n\\nThey are smaller than &bGwibs&r and act like &2&lVanilla&r Fish!"]
+			old: ["&bGwiblings&r are friendly fish in the Seas. \\n\\nThey are smaller than &bGwibs&r and act like Vanilla Fish!"]
+		}
+		quest.70FD8856BFCD9AEE.quest_desc: {
+			new: [
+				"The largest and most dangerous &cRot Mob&r. \\n\\nThey have 80 Hearts, which I think qualifies as a Boss. \\n\\nLike all &cRot Mobs&r they will target &2Stoneborns&r and &7Forgottens&r and will drop &cUtheric Shards&r."
+				"{image:atm:textures/questpics/undergarden/undergarden_rotbeast.png width:100 height:100 align:center}"
+			]
+			old: [
+				"The largest and most dangerous &cRot Mob&r. \\n\\nThey have 80 Hearts, which I think qualifies as a Miniboss. \\n\\nLike all &cRot Mobs&r they will target &2Stoneborns&r and &7Forgottens&r and will drop &cUtheric Shards&r."
+				"{image:atm:textures/questpics/undergarden/undergarden_rotbeast.png width:100 height:100 align:center}"
+			]
+		}
+		quest.51E2728C5E35A152.quest_desc: {
+			new: ["Froststeel spawns in the Frozen Biomes: Frostfields, Frosty Smogstem Forests, and probably Icy Seas. \\n\\nIt spawns in Shiverstone which replaces Depthrock in these Biomes. The Shiverstone will act similar to Ice as in it is slippery and slows you down a little. \\n\\nYou might also find some Nuggets in Munchers bellies!"]
+			old: ["Froststeel spawns in the Frozen Biomes: Frostfields, Frosty Smogstem Forests, and probably Icey Seas. \\n\\nIt spawns in Shiverstone which replaces Depthrock in these Biomes. The Shiverstone will act similar to Ice as in it is slippery and slows you down a little. \\n\\nYou might also find some Nuggets in Munchers bellies!"]
+		}
+		quest.744DBE831C120B2F.quest_desc: {
+			new: [
+				"Is that rock moving? Oh wait that isn't a rock, it's a &aMog&r! \\n\\n&aMogs&r can be bred together with Depthrock Pebbles and on death might drop more Pebbles or Mogmoss! \\n\\nMogmoss can be used in many different recipes!"
+				"{image:atm:textures/questpics/undergarden/undergarden_mog.png width:100 height:100 align:center}"
+			]
+			old: [
+				"Is that rock moving? Oh wait that isn't a rock, it's a &2Mog&r! \\n\\n&2Mogs&r can be bred together with Depthrock Pebbles and on death might drop more Pebbles or Mogmoss! \\n\\nMogmoss can be used in many different recipes!"
+				"{image:atm:textures/questpics/undergarden/undergarden_mog.png width:100 height:100 align:center}"
+			]
+		}
+		quest.4D836B9D9E3B898F.title: {
+			new: "&aStoneborn&r"
+			old: "&2Stoneborn&r"
+		}
+		quest.744DBE831C120B2F.title: {
+			new: "&aMog&r"
+			old: "&2Mog&r"
+		}
+		quest.4D836B9D9E3B898F.quest_desc: {
+			new: [
+				"&aStoneborns&r are the perfect mix of Villagers and Iron Golems. \\n\\nYou can trade with them by Right Clicking them. \\n\\nAnd they will fight off Hostile Mobs (or Players who hit them)."
+				"{image:atm:textures/questpics/undergarden/undergarden_stoneborn.png width:100 height:150 align:center}"
+			]
+			old: [
+				"&2Stoneborns&r are the perfect mix of Villagers and Iron Golems. \\n\\nYou can trade with them by Right Clicking them. \\n\\nAnd they will fight off Hostile Mobs (or Players who hit them)."
+				"{image:atm:textures/questpics/undergarden/undergarden_stoneborn.png width:100 height:150 align:center}"
+			]
+		}
+		quest.76CDC18D7A208512.quest_desc: {
+			new: ["In The &2&lUndergarden&r, &cRot Mobs&r: &cRotling&f, &cRotwalker&f, &cRotbelcher&f, and the &cRotbeast&r can infect you with &cUtherium&r. \\n\\nIt will show up as Red Bars above your Hunger Bars if you catch it. After 4 full Bars red lines will appear on your screen. At 8 Bars the Bars will start shaking to warn you it's getting worse. At 10 Bars all of them will glow and this is when you start taking Damage. \\n\\n&cRot&r will slowly go away on its own unless it is full. You can also get Purity from Mysterious Totems or Eat &3Rogdorium&r to get rid of it. \\n\\nBoth of these come from the Depths, which Spawn below Y Level 0. You'll need a &aForgotten Pickaxe&r or another Pickaxe of the same Tier like &6Allthemodium&r to reach it. \\n\\nThe only way to prevent the &cRot&r is by Infusing your Armor with &3Rogdorium&r using the Infuser."]
+			old: ["In The &2&lUndergarden&r, &cRot Mobs&r can infect you with &cUtherium&r. In lower doses, this infection will decay over time. In high enough doses, it won't decay, and will have to be cured with &3Rogdorium&r, which is only found deep in the Dreadrock regions. You can either consume it, or infuse your armor with it to ward off this infection. I'll even give you some &3Rogdorium&r on the house!"]
+		}
+		quest.17C2C8F64B4AE6EE.quest_desc: {
+			new: [
+				"&2Dwellers&r are the Cows of &2&lUndergarden&r. \\n\\nThey are Passive and will drop Leather and Dweller Meat on death. \\n\\nThank God they can't be milked, I don't want any milk these &2Dwellers&r make."
+				"{image:atm:textures/questpics/undergarden/undergarden_dweller.png width:100 height:100 align:center}"
+			]
+			old: [
+				"&2Dwellers&r are the Cows of &2&lUndergarden&r. \\nThey are Passive and will drop Leather and Dweller Meat on death. \\n\\nThank God they can't be milked, I don't want any milk these &2Dwellers&r make."
+				"{image:atm:textures/questpics/undergarden/undergarden_dweller.png width:100 height:100 align:center}"
+			]
+		}
+	}
+	"chapters/mahou_tsukai.snbt": {
+		quest.565703CBB06CEABF.quest_desc: {
+			new: ["I know why you are all here for; you're here for the &4&lMorgan Sword&r. \\n\\nIt is one of the powerful swords of all the &6&lATM Modpacks&r. \\n\\nFollow these Quests and you'll become an unstoppable force!"]
+			old: ["I know why you all are here for, you're here for the &4&lMorgan Sword&r. \\n\\nOne of the powerful Swords of all the &6&lATM Modpacks&r. \\n\\nFollow these Quests and you'll become an unstoppable force!"]
+		}
+	}
+	"chapters/pylons.snbt": {
+		quest.18246A48C20B29D8.quest_desc: {
+			new: ["The Infusion Pylon works similar as a Beacon just much better and cheaper! \\nWhen a Potion Effect is put in by a Potion Filter, it will continuously give you the Potion Effect while you're in the set Chunk area."]
+			old: ["The Infusion Pylon works similar as a Beacon just much better and cheaper! \\nWhen a Potion Effect is put in by a Potion Filter, it will continuously give you the Potion Effect no matter where you are! \\n\\nYou heard me right, no longer is there a set radius for the Infusion Pylon, now it will reach you wherever."]
+		}
+		quest.011F787E620DE9E8.quest_desc: {
+			new: ["To set the Mob Filter you just have to click the Mob you never want to see again, or prevent accidentally killing, with the Mob Filter. \\n\\nEach Filter can only hold 1 Mob so if you want Zombies, Skeletons, Spiders, Creepers, and Endermen to no longer spawn you'll need 5 Mob Filters. \\n\\nYou can exchange the Mob in it by simplying clicking a different Mob with it."]
+			old: ["To set the Mob Filter you just have to click the Mob you never want to see again, with the Mob Filter. \\n\\nEach Filter can only hold 1 Mob so if you want Zombies, Skeletons, Spiders, Creepers, and Endermen to no longer spawn you'll need 5 Mob Filters. \\n\\nYou can exchange the Mob in it by simplying clicking a different Mob with it."]
+		}
+		quest.12ED1EE85E146A4B.quest_desc: {
+			new: ["Harvester Pylons work as a very simple Auto-Farm. Put the Pylon on or in the Water Source and it will automatically harvest and replant Crops that are fully grown in the set area around it. \\n\\nThe area can be set to 3x3, 5x5, 7x7, or 9x9 Blocks around the Pylon. \\n\\nIt will need a Hoe to use on the Plants and will need an Inventory like a chest above it to put the Crops. Do all that and if it's turned On it will start farming!\\n\\n(Careful when using a lot of modifiers with it like Lilypads or fertilizer as when it goes very fast farming it can be a TPS eater)."]
+			old: [
+				"Harvester Pylons work as a very simple Auto-Farm. Put the Pylon on or in the Water Source and it will automatically harvest and replant Crops that are fully grown in the set area around it. "
+				""
+				"The area can be set to 3x3, 5x5, 7x7, or 9x9 Blocks around the Pylon. "
+				""
+				"It will need a Hoe to use on the Plants and will need an Inventory like a chest above it to put the Crops. Do all that and if it's turned On it will start farming!"
+			]
+		}
+		quest.5B5FC539BD1F4A73.quest_desc: {
+			new: ["This Pylon is all about blocking Mob Spawns. \\n\\nYou can use Mob Filters to block spawns of only certain Mobs or use the Lifeless Filter to block all Mob spawns! \\n\\nYou can stack multiple Mob Filters to block off more spawns. Plus you can change the Working Area for how far it blocks those Mob Spawns. \\n\\nIf you use the Lifeless Filter it will ignore all those settings."]
+			old: [
+				"This Pylon is all about blocking Mob Spawns. "
+				""
+				"You can use Mob Filters to block spawns of only certain Mobs or use the Lifeless Filter to block all Mob spawns! "
+				""
+				"You can stack multiple Mob Filters to block off more spawns. Plus you can change the Working Area for how far it blocks those Mob Spawns. "
+				""
+				"If you use the Lifeless Filter it will ignore all those settings."
+			]
+		}
+		quest.5C2C29ECA67F9B49.quest_desc: {
+			new: ["With the Lifeless Filter you will never have to worry about any Mob spawns within a 25x25 Block area. \\n\\nThat's enough to cover every distance Mobs spawn near the player. Hostile or Passive. \\n\\nThis includes every Y Level as well, above or below the Pylon, so no more worrying about lighting up caves! \\n\\nThere's no Whitelisting with this Filter, it will prevent every Mob Spawn."]
+			old: [
+				"With the Lifeless Filter you will never have to worry about any Mob spawns within a 25x25 Chunk area. "
+				""
+				"This doesn't include Forced Spawns though, that is Mobs spawned from Spawners or even Spawn Eggs!"
+				""
+				"The 25x25 will cover every distance Mobs spawn near the player. Hostile or Passive. "
+				""
+				"This includes every Y Level as well, above or below the Pylon, so no more worrying about lighting up caves! "
+				""
+				"There's no Whitelisting with this Filter, it will prevent every Mob Spawn."
+			]
+		}
+	}
+	"chapters/allthemodium.snbt": {
+		quest.5BA986D7928BF09F.quest_desc: {
+			new: ["The Piglich is a Boss added by &6&lAllthemodium&r. \\n\\nHe has 9999 Hearts and currently has no attacks but trust me when he does they will be devastating! \\n\\nWhen killed he'll drop his Heart which will be needed for Alloys and the ATM Star! \\n\\n(Look into ways of farming them like with HNN or EnderIO!)"]
+			old: ["The Piglich is a Boss added by &6&lAllthemodium&r. \\n\\nHas he 1000 Hearts and currently has no attacks but trust me when he does they will be devastating! \\n\\nWhen killed he'll drop his Heart which will be needed for Alloys and the ATM Star! \\n\\n(Look into ways of farming them like with HNN or EnderIO!)"]
+		}
+	}
+	"chapters/bounty_board.snbt": {
+		quest.3813F5C1760C3A79.quest_desc: {
+			new: ["Piglin Brutes being here might cause controversy but I consider them Minibosses. \\n\\nThey spawn in Bastions with regular Piglins but these are Hostile not Neutral. Personally I hate that, especially since if you hit them all Piglins will turn Hostile on you. \\n\\nThey have 50 Hearts and a Golden Axe to hit you. Usually Golden Axes barely do any damage, but when they use it, it is god tier somehow! \\n\\nThey drop nothing and act more like an obstacle for Bastions!"]
+			old: ["Piglin Brutes being here might cause controversey but I consider them Minibosses. \\n\\nThey spawn in Bastions with regular Piglins but these are Hostile not Neutral. Personally I hate that, especially since if you hit them all Piglins will turn Hostile on you. \\n\\nThey have 50 Hearts and a Golden Axe to hit you. Usually Golden Axes barely do any damage, but when they use it, it is god somehow! \\n\\nThey drop nothing and act more like an obstacle for Bastions!"]
+		}
+	}
+	"chapters/building_tips.snbt": {
+		quest.72DB967E59EEA729.quest_desc: {
+			new: ["&e&lExcessive Utilities&r offers a bunch of different Glass variants! \\n\\nIt's not just normal Glass, some of these have abilities which can be read by pressing ALT while hovering over the Item! \\n\\nLike Ethereal Glass (Inverted) which you can walk through but Mobs can't. (I used that for my Bee Dome in 9sky!)"]
+			old: ["&3&lGlassential&r is very important Mod for building, even for builds with purposes! \\nIt's not just normal Glass, these have abilities which can be read while hovering over the Item! \\n\\nLike Ethereal Glass which you can walk through but Mobs can't. (I used that for my Bee Dome in 9sky!)"]
+		}
+		task.53A682560123F9B6.title: {
+			new: "Excessive Utilities Glass"
+			old: "Glassential"
+		}
+		quest.22D2CFDDB06C720C.quest_desc: {
+			new: ["Tools are very important in &2&lMinecraft&r but so is inventory space. So why not clear some space up by making a Paxel! \\nPaxels are a combination of Pickaxes (P), Axes (axe), and Shovels (els). \\n\\nThey can strip wood, make paths, and mine any blocks a pickaxe/axe/shovel of its tier can!"]
+			old: ["Tools are very important in &2&lMinecraft&r but so is inventory space. So why not clear some space up by making a Paxel! \\nPaxels are a combination of Pickaxes (P), Axes (axe), and Shovels (els). \\n\\nThey can strip wood, make paths, and mine any blocks that same pickaxe/axe/shovel tier can!"]
+		}
+		quest.027E6E294D9E1375.quest_desc: {
+			new: ["Take notes &lCorail&r! This is how you do Holidays! (I say this with 100% love, we love you &lCorail&r!) \\n\\nThis addition adds plenty of decorations for Christmas and Halloween. \\n\\nFrom Christmas Trees, Presents, and Lights for Christmas to Pumpkins, Spiders, and Witch Hats for Halloween."]
+			old: ["Take notes &lCorail&r! This is how you do Holidays! (I say this will 100% love, we love you &lCorail&r!) \\n\\nThis addition adds plenty of decorations for Christmas and Halloween. \\n\\nFrom Christmas Trees, Presents, and Lights for Christmas to Pumpkins, Spiders, and Witch Hats for Halloween."]
+		}
+		quest.72DB967E59EEA729.title: {
+			new: "&e&lExcessive Utilities&r Glass"
+			old: "&3&lGlassential&r"
+		}
+	}
+	"chapters/occultism.snbt": {
+		quest.690B89D23134B624.quest_desc: {
+			new: [
+				"Grab your chalks, draw your &dRonaza's Contact&r ritual, and get ready to create the ULTIMATE CHALK!"
+				""
+				"Instead of having to lug around a full set of 16 chalks, you can use the Rainbow Chalk to paint a color-changing Rune that counts as any of them!"
+			]
+			old: [
+				"Grab your chalks, draw your &dRonaza's Contact&r ritual, and get ready to create the ULTIMATE CHALK*!"
+				""
+				"Instead of having to lug around a full set of 16 chalks, you can use the Rainbow Chalk to paint a color-changing Rune that counts as any of them!"
+				""
+				"&8*Does not include Foundation Chalk. Make the Void Chalk to include those&r"
+			]
+		}
+		quest.54378277B8D28B1D.quest_desc: {
+			new: ["An alternative to the Rainbow Chalk, for those who prefer the colors of Foundation Chalk.\\n\\nHas the same function as the Rainbow Chalk, except all the runes will cycle between Foundation Chalk colors."]
+			old: [
+				"An \"upgrade\" to the Rainbow Chalk, for those who don't like the rapid color-switching runes ruining their tediously crafted aesthetic. "
+				""
+				"Has the same function as the Rainbow Chalk, except all the runes will show up as white. Additionally, it works for foundation chalk as well."
+			]
+		}
+	}
+	"chapters/apothic_enchanting.snbt": {
+		quest.001A348054127235.quest_desc: {
+			new: ["&5Budding Amethyst&r can be useful for Crafting Recipes and even just Growing &5Amethyst&r! \\n\\nWith a &5Amethyst Block&r, &a60 Eterna&r, between &c30% &fand &c50% Quanta&r, and &550% Arcana&r we can &d&lInfuse&r one. \\n\\nTo get all those stats we can use 10 &9Deepshelves&r (not &9Dormant&r ones), 2 &2Melonshelves&r, and 7 &7Basic Bookshelves&r.\\n\\nOr, if you chose &bSeashelves&r, you can use 11 &bCrystalline Seashelves&r and 1 &bInfused Seashelf&r."]
+			old: ["&5Budding Amethyst&r can be useful for Crafting Recipes and even just Growing &5Amethyst&r! \\n\\nWith a &5Amethyst Block&r, &a60 Eterna&r, between &c30% &fand &c50% Quanta&r, and &550% Arcana&r we can &d&lInfuse&r one. \\n\\nTo get all those stats we can use 15 &4Glowing Hellshelves&r and 4 &2Melonshelves&r."]
+		}
+		quest.377D6CF86BC1C64F.quest_desc: {
+			new: ["The &8Tome of Scrapping&r will only take off half the &5Enchantments&r, while the &8Tome of Superior Scrapping&r will take every &5Enchantment&r off the Item! \\n\\nBoth of these &8Tomes&r will break the Item in use though. \\n\\nTo &d&lInfuse&r our &8Tome of Scrapping&r into a &8Tome of Superior Scrapping&r you can use 3 &9Echoing Sculkshelves&r and 15 &7Basic Bookshelves&r.\\n\\nOr, if you want this &8Tome&r on &2&lFrontier&r, you can use 8 &bCrystalline Seashelves&r."]
+			old: ["The &8Tome of Scrapping&r will only take off half the &5Enchantments&r, while the &8Tome of Superior Scrapping&r will take every &5Enchantment&r off the Item! \\n\\nBoth of these &8Tomes&r will break the Item in use though. \\n\\nTo &d&lInfuse&r our &8Tome of Scrapping&r into a &8Tome of Superior Scrapping&r we can use 3 &9Echoing Sculkshelves&r and 15 Bookshelves, or 4 Draconium Blocks."]
+		}
+		quest.784466C3813AA506.quest_desc: {
+			new: ["Ever wanted to pick up mobs? We...have Soul Gems and Creature Catchers for that.\\n\\nLet's just ignore those for now and focus on the option &5&lApotheosis&r offers. The &5Flimsy Ender Lead&r is the cheapest variant of &5Ender Lead&r, but also the weakest, and most fragile. It can only hold animals, and breaks after 8 uses."]
+			old: ["Ever wanted to pick up mobs? We...have Soul Gems, Mob Imprisonment Tools, and Creature Catchers for that.\\n\\nLet's just ignore those for now and focus on the option &5&lApotheosis&r offers. The &5Flimsy Ender Lead&r is the cheapest variant of &5Ender Lead&r, but also the weakest, and most fragile. It can only hold animals, and breaks after 8 uses."]
+		}
+		quest.79AF63E77AD70A93.quest_desc: {
+			new: ["&7Basic Bookshelves&r are your starting point, but definitely not your end point. Atleast not &7Basic Bookshelves&r. \\n\\nWith only &7Basic Bookshelves&r you can only get &aEterna&r up and to a max of 30. \\n(I will explain the &5Enchantment Levels&r soon but just know you need them up)\\n\\n(&7Basic Bookshelves&r and vanilla &7Bookshelves&r are interchangeable)"]
+			old: ["&7Bookshelves&r are your starting point, but definitely not your end point. Atleast not normal &7Bookshelves&r. \\n\\nWith only normal &7Bookshelves&r you can only get &aEterna&r up and to a max of 30. \\n(I will explain the &5Enchantment Levels&r soon but just know you need them up)"]
+		}
+		quest.3D31B94CC42BCE43.quest_desc: {
+			new: ["The &8Tome of Extraction&r is the &8Tome&r we are looking for! It will take off all &5Enchantments&r and leave the Item alone!\\n\\nTo make it we'll need to &d&lInfuse&r our &8Tome of Superior Scrapping&r. \\n\\nWe can just use our previous &9Sculkshelf&r setup for this."]
+			old: ["The &8Tome of Extraction&r is the &8Tome&r we are looking for! It will take off all &5Enchantments&r and leave the Item alone! \\n\\nTo make it we'll need to &d&lInfuse&r our &8Tome of Superior Scrapping&r. \\n\\nWe can just use our previous setup for this."]
+		}
+		quest.235E3C386E8D36A3.quest_desc: {
+			new: [
+				"This is where the seperation of &4Hellshelves&r and &bSeashelves&r end! \\n\\nFirst, we'll need to Craft a &9Dormant Deepshelf&r. These are just 6 &8Cracked Deepslate Tiles&r and 3 &7Books&r. \\n\\nThen, we'll need &a60 Eterna&r, &c40% Quanta&r, and &540% Arcana&r. We can get that with 12 &bCrystalline Seashelves&r or 13 &4Glowing Hellshelves&r! \\n\\nFinally, we can &d&lInfuse&r our &9Dormant Deepshelves&r into regular &9Deepshelves&r!"
+				"{image:atm:textures/questpics/apothic/enchant_deepshelf.png width:100 height:100 align:center}"
+			]
+			old: [
+				"This is where the seperation of &4Hellshelves&r and &bSeashelves&r end! \\n\\nFirst, we'll need to Craft a &9Dormant Deepshelf&r. These are just 6 &8Cracked Deepslate Tiles&r and 3 &7Books&r. \\n\\nThen, we'll need &a60 Eterna&r, &c40% Quanta&r, and &540% Arcana&r. We can get that with 12 &bCrystalline Seashelves&r or 12 &4Glowing Hellshelves&r! \\n\\nFinally, we can &d&lInfuse&r our &9Dormant Deepshelves&r into regular &9Deepshelves&r!"
+				"{image:atm:textures/questpics/apothic/enchant_deepshelf.png width:100 height:100 align:center}"
+			]
+		}
+		quest.61217D80BFF8A858.quest_desc: {
+			new: ["The third and final tier of &5Ender Lead&r is here! This one is unbreakable and can even bind mobs to Spawners. It will require a considerably more tricky &d&lInfusion&r setup. We'll need at least &a75 Eterna&r, &c85% Quanta&r, and between &560-85% Arcana&r.\\n\\nYou can get this with 4 &9Soul-Touched Sculkshelves&r, 4 &9Echoing Sculkshelves&r, 3 &7Stoneshelves&r, and 2 &7Basic Bookshelves&r. Oh, and you also need a Witch in the Ender Lead used for this &d&lInfusion&r."]
+			old: ["The third and final tier of &5Ender Lead&r is here! This one is unbreakable and can even bind mobs to Spawners. It will require a considerably more tricky &d&lInfusion&r setup. We'll need at least &a75 Eterna&r, &c85% Quanta&r, and between &560-85% Arcana&r.\\n\\nYou can get this with 4 &9Soul-Touched Sculkshelves&r, 4 &9Echoing Sculkshelves&r, 3 &7Stoneshelves&r, and 2 vanilla Bookshelves. Oh, and you also need a Witch in the Ender Lead used for this &d&lInfusion&r."]
+		}
+		quest.0F3A0A4DC18E5E55.quest_desc: {
+			new: ["&aEterna&r sets the &5Enchantment Level&r which determines what &5Enchantments&r you can or will get! \\n\\nIt's default is &a0&r and max is determined by your &lWorld Tier&r.\\n\\n&a30&r on &9&lHaven&r.\\n&a45&r on &2&lFrontier&r.\\n&a60&r on &e&lAscent&r.\\n&a75&r on &6&lSummit&r.\\n&a100&r on &4&lPinnacle&r.\\n\\nCheck out the Apotheosis Gear chapter or the linked quests in this chapter to learn more about &lWorld Tiers&r!\\n\\nAlmost all &7Bookshelves&r will give &aEterna&r but each has max they can set it to."]
+			old: ["&aEterna&r sets the &5Enchantment Level&r which determines what &5Enchantments&r you can or will get! \\n\\nIt's default is &a0&r and max is &a100&r. \\n\\nAlmost all &7Bookshelves&r will give &aEterna&r but each has max they can set it to."]
+		}
+		quest.78BFDD3A9B996655.quest_desc: {
+			new: ["A considerable step up from the &5Flimsy Ender Lead&r. Now, it can hold hostile mobs as well, and will break after 64 uses. To get this, we will need at least &a45 Eterna&r, &c25% Quanta&r, and &540% Arcana&r.\\n\\nThis can be achieved with 9 &bCrystalline Seashelves&r, or, if you chose &4Hellshelves&r, 9 &4Glowing Hellshelves&r and 8 Candles (Tip: You can fit up to 4 candles into one block)"]
+			old: ["A considerable step up from the &5Flimsy Ender Lead&r. Now, it can hold hostile mobs as well, and will break after 64 uses. To get this, we will need at least &a45 Eterna&r, &c25% Quanta&r, and &540% Arcana&r.\\n\\nThis can be achieved with 9 &bCrystalline Seashelves&r, or, if you prefer &4Hellshelves&r, 9 &4Glowing Hellshelves&r and 8 Candles (Tip: You can fit up to 4 candles into one block)"]
+		}
+		quest.24C757B8AA6841F6.quest_desc: {
+			new: ["&5&lApotheosis&r knows how annoying &3Tridents&r can be to get so they made it easier... well kinda easier! \\n\\nYou can now make an &3Inert Trident&r and &d&lInfuse&r it to get a normal &3Trident&r. \\n\\nThe &3Trident&r requires between &a40 Eterna&r, &c20%-50% Quanta&r, and atleast &535% Arcana&r. \\n\\nYou can get this with 5 &7Basic Bookshelves&r and 3 &9Echoing Sculkshelves&r.\\n\\nOr, if you really want a &3Trident&r on &2&lFrontier&r, you can also get this with 2 &bCrystalline Seashelves&r and 4 &bInfused Seashelves&r."]
+			old: ["&5&lApotheosis&r knows how annoying &3Tridents&r can be to get so they made it easier... well kinda easier! \\n\\nYou can now make an &3Inert Trident&r and &d&lInfuse&r it to get a normal &3Trident&r. \\n\\nThe &3Trident&r requires between &a40 Eterna&r, &c20%-50% Quanta&r, and atleast &535% Arcana&r. \\n\\nYou can get this with 1 &7Bookshelf&r, 4 &9Echoing Sculkshelf&r, and 1 &2Melonshelf&r."]
+		}
+		quest.45161821C221EF0B.quest_desc: {
+			new: ["Once we get those 15 &4Hellshelves&r around our &5Enchantment Table&r, we'll have &a45 Eterna&r and &c30% Quanta&r in our &5Table&r. \\n\\nThis is the perfect amount to &d&lInfuse&r our &4Hellshelves&r! \\n\\n&4Infused Hellshelves&r give &a5 Eterna&r with a max of &a60 Eterna&r, along with &c5% Quanta&r. \\n\\nThese can be Crafted with other Items to make different &7Bookshelves&r, for the ones we want we'll need 13 &4Infused Hellshelves&r! \\n\\nOf course, with me being soooo generous, you'll only need to collect 8!"]
+			old: ["Once we get those 15 &4Hellshelves&r around our &5Enchantment Table&r, we'll have &a45 Eterna&r and &c30% Quanta&r in our &5Table&r. \\n\\nThis is the perfect amount to &d&lInfuse&r our &4Hellshelves&r! \\n\\n&4Infused Hellshelves&r give &a5 Eterna&r with a max of &a60 Eterna&r, along with &c5% Quanta&r. \\n\\nThese can be Crafted with other Items to make different &7Bookshelves&r, for the ones we want we'll need 12 &4Infused Hellshelves&r! \\n\\nOf course, with me being soooo generous, you'll only need to collect 8!"]
+		}
+		quest.7C758209D06ED0E3.quest_desc: {
+			new: ["By combining an &4Infused Hellshelf&r with some &eGlowstone&r we can make &4Glowing Hellshelves&r! \\n\\nThese have the same &aEterna&r and &cQuanta&r, but give &53.3333% Arcana&r. \\n\\nThis will be helpful in later &d&lInfusions&r, like if we wish to use 13 of them to &d&lInfuse&r a &9Dormant Deepshelf&f into a &9Deepshelf&r!"]
+			old: ["By combining an &4Infused Hellshelf&r with some &eGlowstone&r we can make &4Glowing Hellshelves&r! \\n\\nThese have the same &aEterna&r and &cQuanta&r, but give &53% Arcana&r. \\n\\nThis will be helpful in later &d&lInfusions&r, like if we wish to use 12 of them to &d&lInfuse&r a &9Dormant Deepshelf&f into a &9Deepshelf&r!"]
+		}
+		quest.78E66F1DE42C747A.quest_desc: {
+			new: ["&9Echo Shards&r can be pretty annoying to farm, plus we'll need a lot of them! So why not have an easier way of Farming them. \\n\\nWith &d&lInfusion&r we can make 1 &9Echo Shard&r into 4! \\n\\nWe'll need &a70 Eterna&r, &c50% Quanta&r, and &550% Arcana&r. \\n\\nTo get that, we can use either of the following:\\n\\n14 &9Deepshelves&r, that aren't &9Dormant&r!\\n13 &4Glowing Hellshelves&r and 2 &9Deepshelves&r!\\n12 &bCrystalline Seashelves&r and 2 &9Deepshelves&r!"]
+			old: ["&9Echo Shards&r can be pretty annoying to farm, plus we'll need a lot of them! So why not have an easier way of Farming them. \\n\\nWith &d&lInfusion&r we can make 1 &9Echo Shard&r into 4! \\n\\nWe'll need &a70 Eterna&r, &c50% Quanta&r, and &550% Arcana&r. \\n\\nTo get that, we can use 12 &4Glowing Hellshelves&r and 2 &9Deepshelves&r, that aren't &9Dormant&r!"]
+		}
+	}
+	"chapters/applied_energistics_2.snbt": {
+		quest.79D2617E01481281.quest_desc: {
+			new: ["To get started with AE2, you will need to mine an important resource for the mod known as &bCertus Quartz&f. You will find Certus Quartz Crystals in Meteorites that you can mine for Certus Quartz &eDust&f and &eCrystals&f."]
+			old: ["To get started with AE2, you will need to mine an important resource for the mod known as &bCertus Quartz&f. You will find Certus Quartz Crystals in Meteroites that you can mine for Certus Quartz &eDust&f and &eCrystals&f."]
+		}
+		quest.51236544BFEF487B.quest_desc: {
+			new: ["It is time to find &eMeteorites&r that contain &bSky Stone&r. They are found buried underground, typically near the surface, and contain a &bMysterious Cube&f in its center.\\n\\nThis cube contains all of the different &ePresses&r used in the Inscriber to make AE2's special crafting components.\\n\\nThe easiest way to locate a meteorite is by crafting a &eMeteorite Compass&r by placing a compass inside of a Charger."]
+			old: ["It is time to find &eMeteorites&f that contain &bSky Stone&f. These can be either on the surface or underground, and contain a &bMysterious Cube&f in its center.\\n\\nThis cube contains all of the different &ePresses&f used in the Inscriber to make AE2's special crafting components.\\n\\nThe easiest way to locate a meteorite is by crafting a &eMeteorite Compass&r by placing a compass inside of a Charger."]
+		}
+		quest.1710B3D05215A71E.quest_desc: {
+			new: [
+				"&bP2P&f (point-to-point) is a powerful system within AE2, allowing for the transfer of items, fluids and even more without the need for any intermediary ME storage. "
+				""
+				"Right-clicking on a P2P tunnel with certain items will &eattune&f the tunnel into one capable of transferring something else, such as items through pipes, energy through cables, redstone signals and (by default) even ME connections themselves. "
+				""
+				"P2P tunnels must be linked to one another with the use of a &eMemory Card&f, detailed in the next quest."
+			]
+			old: [
+				"&bP2P&f (peer-to-peer) is a powerful system within AE2, allowing for the transfer of items, fluids and even more without the need for any intermediary ME storage. "
+				""
+				"Right-clicking on a P2P tunnel with certain items will &eattune&f the tunnel into one capable of transferring something else, such as items through pipes, energy through cables, redstone signals and (by default) even ME connections themselves. "
+				""
+				"P2P tunnels must be linked to one another with the use of a &eMemory Card&f, detailed in the next quest."
+			]
+		}
+	}
+	"chapters/chapter_2_the_star.snbt": {
+		quest.263C9A0FC04472AB.title: {
+			new: "&6Heated Redstone Generator"
+			old: "&464x Magmatic Generator"
+		}
+		quest.59EC02C1FBCF14EA.quest_desc: {
+			new: ["&3Ender Quarry Fortune III Upgrade&r applies the Fortune III enchantment to the &3Ender Quarry&r."]
+			old: ["You can upgrade your &5Obsidian Generator&r into an &3Ender Generator&r. \\n\\nThen, it can use &3Ender Pearls&r or &3Eyes of Ender&r to make Energy! \\n\\nOr make the &6&lStar&r, your choice."]
+		}
+		quest.76C63670624C3C56.title: {
+			new: "&e&lExcessive Utilities"
+			old: "&c&lGenerator Galore"
+		}
+		quest.2D64EF8D803AF9DA.quest_desc: {
+			new: ["The most expensive Portal we can make. First for &dDragon Eggs&r you don't have to keep milking the &dDragon&r you can use &l&bHNN&r or &l&2MA&r to get them or an Extractor to make more! \\n\\nThen, you'll need &dInfused Dragon's Breath&r from Enchanting. \\n\\nThere you'll need &9Soul-Touched Sculkshelves&r to Enchant it and to make the Portal. \\n\\nIf you are wondering why the Portal won't work, it's because you are already in the &2&lOverworld&r! Just kidding you can't use it!"]
+			old: ["The most expensive Portal we can make. First for &dDragon Eggs&r you don't have to keep milking the &dDragon&r you can use &l&bHNN&r or &l&2MA&r to get them or an Extrator to make more! \\n\\nThen, you'll need &dInfused Dragon's Breath&r from Enchanting. \\n\\nThere you'll need &9Soul-Touched Sculkshelves&r to Enchant it and to make the Portal. \\n\\nIf you are wondering why the Portal won't work, it's because you are already in the &2&lOverworld&r! Just kidding you can't use it!"]
+		}
+		quest.5869E198DA416346.quest_desc: {
+			new: ["The embodiment of a perfect opinion.\\n\\nA single Perfected Opinium Core requires:\\n- 1024 Red Coal\\n- 4609 Iron Ingots\\n- 2304 Gold Ingots\\n- 1152 Diamonds\\n- 576 Emeralds\\n- 32 Chorus Flowers\\n- 16 Bottles o' Enchanting\\n- 8 Elytras\\n- 4 Nether Stars\\n\\nIn my opinion, a better choice for the &3&lImprobable Probability Device&r than &5Antimatter&r."]
+			old: ["Late Game &5&lMekanism&r is just insane. For 1 &5Antimatter Pellet&r you need to crystallize 1,000mb &5Antimatter&r. \\n\\nFor 1mb of &5Antimatter&r you need to power 1,000mb of &3Polonium&r through the SPS. \\n\\nTo get 1mb of &3Polonium&r you'll need to activate the Neutrons of 5mb of &2Nuclear Waste&r. \\n\\nAnd &2Nuclear Waste&r you get from processing &9Fissile Fuel&r through a Fission Reactor!"]
+		}
+		quest.59EC02C1FBCF14EA.title: {
+			new: "&3Ender Quarry Fortune III Upgrade"
+			old: "&3Ender Generator"
+		}
+		quest.263C9A0FC04472AB.quest_desc: {
+			new: ["This one can either eat &cLava&r and &4Redstone&r like no other, or be used for the &6&lStar&r. \\n\\nThis one's a hard one, I like seeing &cLava&r disappear instead of my stuff disappearing into &cLava&r."]
+			old: ["This one can either eat &cLava&r like no other, or be used for the &6&lStar&r. \\n\\nThis one's a hard one, I like seeing &cLava&r disappear instead of my stuff disappearing into &cLava&r."]
+		}
+		quest.5869E198DA416346.title: {
+			new: "2 Perfected Opinium Cores"
+			old: "2 &5Antimatter Pellets"
+		}
+		quest.4CB488E5CF10F3A4.quest_desc: {
+			new: ["Only the most powerful and expensive Generator from &e&lExcessive Utilities&r. \\n\\nYou'll need one of every Generator in the mod!"]
+			old: ["Only the most powerful and expensive Generator from &c&lGenerator Galore&r. \\n\\nYou'll need an &9Echo Shard&r, a &bConduit&r, and a ton of Netherstar Generators!"]
+		}
+		quest.752DD0BF36B70D88.quest_desc: {
+			new: ["Furnaces just aren't fast enough in normal &2&lMinecraft&r, so how do you think they're going to fair in Modded!?\\n\\nThankfully &7&lIron Furnaces&r helps speed them up by a lot! \\n\\nIt also has a Quest page."]
+			old: ["Furnaces just aren't fast enough in normal &2&lMinecraft&r, so how do you think they're going to fair in Modded!?\\n\\nThankfully &7&lIron Furnaces&r helps speed them up by a lot! \\n\\nIt also has a Quest page it is just rooming together with &c&lGenerator Galore&r."]
+		}
+		quest.4B12425E74C5E511.title: {
+			new: "&cExplosive Generator"
+			old: "&cExplosive Mycelial Generator"
+		}
+		quest.4B12425E74C5E511.quest_desc: {
+			new: ["The &cExplosive Generator&r does an amazing job at soaking up Explosions. \\n\\nWe could use that for a &d&lPulsating &8Black Hole&r!"]
+			old: ["The &cExplosive Mycelial Generator&r does an amazing job at soaking up Explosions. \\n\\nWe could use that for a &d&lPulsating &8Black Hole&r!"]
+		}
+		quest.76C63670624C3C56.quest_desc: {
+			new: ["&e&lExcessive Utilities&r is a continuation of &e&lExtra Utilities 1&r and &e&l2&r, offering various useful items and such. Some of you might remember the mod from older versions of modded Minecraft.\\n\\nWhether this is your first time seeing this mod, or your thousandth, you will need some things from the mod for the &6&lATM Star&r."]
+			old: ["&c&lGenerator Galore&r gives us tons of helpful and simple Power Generators! \\n\\nSome can even be combined with each other to be more powerful. \\n\\nThere is a Quest page for them it's just roomates with &7&lIron Furnaces&r."]
+		}
+	}
+	"chapters/relics.snbt": {
+		image.31A75754D07F903D.title: {
+			new: "Shipwreck"
+			old: "Naufrágio"
+		}
+		image.1FFF2C2FAFC33232.title: {
+			new: "Stronghold"
+			old: "Fortaleza Subterrânea"
+		}
+		image.09D9B906D64EEC0C.title: {
+			new: "Fortress"
+			old: "Fortaleza"
+		}
+		image.3E2A18876931DED5.title: {
+			new: "Mineshaft"
+			old: "Mina Abandonada"
+		}
+		image.0F50CB9DB3CC94EF.title: {
+			new: "End Ship"
+			old: "Barco do End"
+		}
+		image.2CA16137DBB87580.title: {
+			new: "Bastion"
+			old: "Bastião"
+		}
+		image.6569C0513FF60AFB.title: {
+			new: "Ocean Ruin"
+			old: "Ruínas do Oceano"
+		}
+		image.406A39A037D0C241.title: {
+			new: "Village"
+			old: "Vila"
+		}
+		image.4E5BC7C1274B7182.title: {
+			new: "End City"
+			old: "Cidade do End"
+		}
+		image.791EFC83C44C2F16.title: {
+			new: "Ruined Portal"
+			old: "Portal em Ruínas"
+		}
+	}
+	"chapters/mi_digital.snbt": {
+		quest.50F97171D25CD2EE.quest_desc: {
+			new: ["&#6EDDFFHighly Advanced Upgrades&r add &#FFEB6E512EU/t&r of capacity per upgrade."]
+			old: ["&#6EDDFFTurbo Upgrades&r add &#FFEB6E512EU/t&r of capacity per upgrade."]
+		}
+	}
+	chapter.snbt: {
+		chapter.73180B829B960E63.title: {
+			new: "Iron Furnaces"
+			old: "Generators N Furnaces"
+		}
+	}
+	"chapters/extended__advanced_ae.snbt": {
+		image.23E849CECDB50D7B.title: {
+			new: "Quantum Leggings"
+			old: "Calças Quânticas"
+		}
+		image.2E4DE5F916E2E67C.title: {
+			new: "Quantum Helmet"
+			old: "Capacete Quântico"
+		}
+		image.0B2D5CD977F74A21.title: {
+			new: "Quantum Boots"
+			old: "Botas Quânticas"
+		}
+		image.149A176D07AB65FF.title: {
+			new: "Quantum Chestplate"
+			old: "Peitoral Quântico"
+		}
+	}
+	"chapters/productive_trees.snbt": {
+		image.06EE3F93C5A3A9C8.title: {
+			new: "Pilpoh's Productive Trees Guide"
+			old: "Guia de Productive Trees do Pilpoh"
+		}
+	}
+	"chapters/refined_storage.snbt": {
+		quest.0945EC53626F58E6.quest_desc: {
+			new: ["On top of items and fluids, &3Refined Storage&r can also be used to store &aChemicals&r, thanks to the Refined Storage - Mekanism Integration mod.\\n\\nYou can also store &4Energy&r, &5Source&r and &9Souls&r, thanks to the Refined Types mod."]
+			old: ["On top of items and fluids, &3Refined Storage&r can also be used to store &aChemicals&r, thanks to the Refined Storage - Mekanism Integration mod.\\n\\nYou can also store &4Energy&r and &5Source&r, thanks to the Refined Types mod."]
+		}
+	}
+	"chapters/railcraft.snbt": {
+		image.5DD0E2CCA511EB38.title: {
+			new: "Steam Locomotive"
+			old: "Locomotiva a Vapor"
+		}
+		image.6C2E98D684A1151D.title: {
+			new: "Item Loading"
+			old: "Carregamento de Itens"
+		}
+		image.334656E1BD2BD2F3.title: {
+			new: "Item Unloading"
+			old: "Descarregamento de Itens"
+		}
+		image.5A2483B4DDFA0681.title: {
+			new: "Electric Locomotive"
+			old: "Locomotiva Elétrica"
+		}
+		image.19E62B5941EBF148.title: {
+			new: "Water Boiler"
+			old: "Caldeira de Água"
+		}
+		image.25F179F102B01B6C.title: {
+			new: "Steam Oven"
+			old: "Forno a Vapor"
+		}
+		image.7A4A52A07080C934.title: {
+			new: "Minecart with Tank"
+			old: "Carrinho de Mina com Tanque"
+		}
+		image.7CCAB9F4E5AA460D.title: {
+			new: "Water Tank"
+			old: "Tanque de Água"
+		}
+		image.2E1593F0530D3C98.title: {
+			new: "Coke Oven"
+			old: "Forno de Coque"
+		}
+		image.44926ADFA458AA5B.title: {
+			new: "Track: Remover, Relayer, and Placer"
+			old: "Trilho: Remover, Reposicionar e Colocar"
+		}
+		image.25737DD1D11B4265.title: {
+			new: "Crusher"
+			old: "Triturador"
+		}
+		image.56C829DDAB6232DC.title: {
+			new: "Strap Iron Tracks"
+			old: "Trilhos de Tira de Ferro"
+		}
+		image.359C2361F7CD2ED9.title: {
+			new: "Electric Tracks"
+			old: "Trilhos Elétricos"
+		}
+		image.48DD1E597A03883A.title: {
+			new: "Blast Furnace"
+			old: "Alto-forno"
+		}
+		image.5DD6AF1EA4BAD0DD.title: {
+			new: "Abandoned Tracks"
+			old: "Trilhos Abandonados"
+		}
+		image.1002C386BE35EA2F.title: {
+			new: "Steam Turbine"
+			old: "Turbina a Vapor"
+		}
+		image.36916A3FBFE2FEED.title: {
+			new: "Cart Dispenser"
+			old: "Ejetor de Carrinho"
+		}
+		image.7DF3C0C70DE6721A.title: {
+			new: "Train Dispenser"
+			old: "Ejetor de Trem"
+		}
+		image.1B63B86E2F4D06B9.title: {
+			new: "Fluid Loading"
+			old: "Carregamento de Fluidos"
+		}
+		image.39200CD2D52BC01A.title: {
+			new: "Reinforced Tracks"
+			old: "Trilhos Reforçados"
+		}
+		image.58A233F817C33971.title: {
+			new: "Minecart with Energy Cell"
+			old: "Carrinho de Mina com Célula de Energia"
+		}
+	}
+	"chapters/cataclysm.snbt": {
+		quest.0B7F2B63D867D221.quest_desc: {
+			new: ["To find these we'll need a little archeology! \\n\\nIn the giant shaft you'll take to get to the &e&lAncient Remnant&r, there are 3 rooms on the sides of it. \\n\\n2 of these rooms have Suspicious Sand which you can use a Brush on to get Loot! Including the &eNecklace of Desert&r. \\nThen, Right Click the &e&lAncient Remnant&r with the &eNecklace of Desert&r to resurrect it!"]
+			old: ["To find these we'll need a little archeology! \\n\\nIn the giant shaft you'll take to get to the &e&lAncient Remnant&r, there are 3 rooms on the sides of it. \\n\\n2 of these rooms have Suspicious Sand which you can use a Brush on to get Loot! Including the &eNecklace of Desert&r. \\nThen, Right Click the &e&lAncient Remnant&r with the &eNecklace of Desert&r to resurect it!"]
+		}
+		quest.655FF7295B688354.quest_desc: {
+			new: ["The &9Clawdian&r is the miniboss of &9Acropolis&r. \\n\\nThey are huge lobsters who hold an even bigger Axe! \\n\\nThey have 2250 &4Hearts&r and 12 Armor Points. \\n\\nThey like to use their Axe and Feet to Attack you. From swinging their Axe at you to do moderate Damage. To smashing the ground with an Axe to unleash a Shockwave. To stomping on the ground to unleash an even bigger Shockwave and &9Waves&r at you! \\n\\nIf you get too far they'll charge after you, Breaking Blocks in their way! \\n\\nIf you can Kill one, they'll Drop their &9Claw&r! Kinda graphic but thankfully it's just fantasy violence!"]
+			old: ["The &9Clawdian&r is the miniboss of &9Acropolis&r. \\n\\nThey are huge lobsters who hold an even bigger Axe! \\n\\nThey have 225 &4Hearts&r and 12 Armor Points. \\n\\nThey like to use their Axe and Feet to Attack you. From swinging their Axe at you to do moderate Damage. To smashing the ground with an Axe to unleash a Shockwave. To stomping on the ground to unleash an even bigger Shockwave and &9Waves&r at you! \\n\\nIf you get too far they'll charge after you, Breaking Blocks in their way! \\n\\nIf you can Kill one, they'll Drop their &9Claw&r! Kinda graphic but thankfully it's just fantasy violence!"]
+		}
+		quest.1C5EA7D62BAF2108.quest_desc: {
+			new: ["In order to fight &5&lThe Leviathan&r you'll need a sacrifice. The &5Abyssal Sacrifice&r to be specific. \\n\\nThe most basic Items needed is the Blocks of Ingots and Amethyst which are just &2&lVanilla&r Items. \\n\\nThen, you'll need a Nautilus Shell and a Heart of the Sea. These are &2&lVanilla&r Items which are rare to get... unless you kill &5Deeplings&r which can drop Nautilus Shells! Heart of the Sea still need to be found Exploring and Looting. \\n\\nYou'll also need an Athame which is a weapon used by &5Deepling Warlocks &fand &5Priests&r and dropped by them on death. \\nThe last part gives us a choice, either Crystallized Coral or Coral Chunk. Both are drops from &5Coral Golem&r and &5Coralssus&r."]
+			old: ["In order to fight &5&lThe Leviathan&r you'll need a sacrifice. The &5Abyssal Sacrifice&r to be specific. \\n\\nThe most basic Items needed is the Blocks of Ingots and Amethyst which are just &2&lVanilla&r Items. \\n\\nThen, you'll need a Nautilus Shell and a Heart of the Sea. These are &2&lVanilla&r Items which are rare to get... unless you kill &5Deeplings&r which can drop them! \\n\\nYou'll also need an Athame which is a weapon used by &5Deepling Warlocks &fand &5Priests&r and dropped by them on death. \\nThe last part gives us a choice, either Crystallized Coral or Coral Chunk. Both are drops from &5Coral Golem&r and &5Coralssus&r."]
+		}
+		quest.0B7F2B63D867D221.quest_subtitle: {
+			new: "Resurrecting an Ancient Remnant"
+			old: "Resurecting an Ancient Remnant"
+		}
+		quest.33B1D3FD4C0B5514.quest_desc: {
+			new: [
+				"The &e&lAncient Remnant&r is master of his domain, of &eSand&r. \\n\\nHe has 2,700 &4Hearts&r and is aided with a &eWadjet&r and a &eKobolediator&r. \\n\\nHe has a few moves and attacks! He can swing his bony tail at you, bite you, or he might stomp on the ground, producing Shockwaves. \\n\\nHe can also summon &eSandstorms&r with a mighty ROAR and even drop &eSand Traps&r on your head. \\n\\nAnother attack he may use to get closer to you is his charge. His charge will hurt you and your FPS as it destroys every Block in his path. \\n\\nHe does have a weakness, the very thing that resurrected him! If you hit his &eNecklace&r he will be knocked down for a little bit, giving you the perfect chance to strike him down and return him to the grave!"
+				"{image:atm:textures/questpics/cataclysm/cataclysm_remnant.png width:100 height:100 align:center}"
+			]
+			old: [
+				"The &e&lAncient Remnant&r is master of his domain, of &eSand&r. \\n\\nHe has 2,700 &4Hearts&r and is aided with a &eWadjet&r and a &eKobolediator&r. \\n\\nHe has a few moves and attacks! He can swing his bony tail at you, bite you, or he might stomp on the ground, producing Shockwaves. \\n\\nHe can also summon &eSandstorms&r with a mighty ROAR and even drop &eSand Traps&r on your head. \\n\\nAnother attack he may use to get closer to you is his charge. His charge will hurt you and your FPS as it destroys every Block in his path. \\n\\nHe does have a weakness, the very thing that ressurected him! If you hit his &eNecklace&r he will be knocked down for a little bit, giving you the perfect chance to strike him down and return him to the grave!"
+				"{image:atm:textures/questpics/cataclysm/cataclysm_remnant.png width:100 height:100 align:center}"
+			]
+		}
+		quest.713006AB89E43C6D.quest_desc: {
+			new: [
+				"The tippy top of the massive &9Acropolis&r is where the &9&lScylla&r will spawn. Like the &d&lEnder Guardian&r you just need to be near to Spawn here. \\n\\nShe is one of the smallest Bosses in &4&lCataclsym&r only being around 3 Blocks Tall. As well as right now, she has 8658 &4Hearts&r and 12 Armor Points. Her buff was overdue, but was done.\\n\\nDon't let her Size let you underestimate her, she has some of the most Attacks of all Bosses here. \\n\\nShe can use her &9Anchor&r, &9Ceraunus&r, to pull you closer to her from far away, or simply swing it at you to deal a ton of Damage! \\n\\nShe can toss &9Lightning Spears&r at you from her Back or from Clouds. Even leaping into the Air and Jumping back down to bring &9Lightning Strikes&r all around where she Hit. \\n\\nThat's not even it! She also has control over &9Water&r allowing her to send &9Waves&r at you or even summon &9Water Snakes&r to Bite you! \\n\\nWhen slayed, she will Drop the usual Boss Gear, as well as &9Lacrima&r and &9Essence of the Storm&r."
+				"{image:atm:textures/questpics/cataclysm/cataclysm_scylla.png width:100 height:100 align:center}"
+			]
+			old: [
+				"The tippy top of the massive &9Acropolis&r is where the &9&lScylla&r will spawn. Like the &d&lEnder Guardian&r you just need to be near to Spawn here. \\n\\nShe is one of the smallest Bosses in &4&lCataclsym&r only being around 3 Blocks Tall. As well as right now, she has 390 &4Hearts&r and 12 Armor Points. Don't worry, she'll be Buffed very soon! \\n\\nDon't let her Size or lack of &6&lATM10&r Buffs let you underestimate her, she has some of the most Attacks of all Bosses here. \\n\\nShe can use her &9Anchor&r, &9Ceranus&r, to pull you closer to her from far away, or simply swing it at you to deal a ton of Damage! \\n\\nShe can toss &9Lightning Spears&r at you from her Back or from Clouds. Even leaping into the Air and Jumping back down to bring &9Lightning Strikes&r all around where she Hit. \\n\\nThat's not even it! She also has control over &9Water&r allowing her to send &9Waves&r at you or even summon &9Water Snakes&r to Bite you! \\n\\nWhen slayed, she will Drop the usual Boss Gear, as well as &9Lacrima&r and &9Essence of the Storm&r."
+				"{image:atm:textures/questpics/cataclysm/cataclysm_scylla.png width:100 height:100 align:center}"
+			]
+		}
+	}
+	"chapters/apotheosis_gear.snbt": {
+		quest.1D1FAA2F86695781.quest_desc: {
+			new: ["For &l&2Frontier&r the Rarity of &eAffixes&r didn't matter, but now for &l&eAscent&r you'll need everything being &aUncommon&r or better. \\n\\nYou'll also need to kill an &4Invader&r aka an &6&lApothic&r Boss, to upgrade your &lWorld Tier&r. The Rarity of &4Boss&r doesn't matter! \\n\\n&eAffixes&r will only stay up to &5Epic&r but now &9Rare&r is more common than the rest. We can also get &6Mythic&r &aGems&r... just only with Lady Luck's Favor! \\n\\nSpeaking of Luck, our Luck will increase to 30%, Experience will jump to 55%, and &aMax Eterna&r will rise to &a60&r. \\n\\n&4Monsters&r in return will now have 8 Armor Points and 5 Armor Pierce."]
+			old: ["For &l&2Frontier&r the Rarity of &eAffixes&r didn't matter, but now for &l&eAscent&r you'll need everything being &aUncommon&r or better. \\n\\nYou'll also need to kill an &4Invader&r aka an &6&lApothic&r Boss, to upgrade your &lWorld Tier&r. The Rarity of &4Boss&r doesn't matter! \\n\\n&eAffixes&r will only stay up to &5Epic&r but now &9Rare&r is more common than the rest. We can also get &6Mythic&r &aGems&r... just only with Lady Luck's Favor! \\n\\nSpeaking of Luck, our Luck will increase to 30% and Experience will jump to 55%. \\n\\n&4Monsters&r in return will now have 8 Armor Points and 5 Armor Pierce."]
+		}
+		quest.552BA5E6FA987256.quest_desc: {
+			new: ["The &cSigil of Malice&r is a mysterious sigil. No one knows how to craft it. Rumors circulate about it being dropped by &4Invaders&r.\\n\\nWhen applied to &eAffix Gear&r in a &8&lSmithing Table&r, it overcharges a random &eAffix&r, but resets the power of another random &eAffix&r. An &6&lAugmenting Table&r can save the reset &eAffix&r."]
+			old: ["The &cSigil of Malice&r is a mysterious sigil. No one knows how to craft it. Rumors circulate about it being dropped by &4Invaders&r.\\n\\nWhat it does is another mystery, though some players found that they lost an affix from gear they used it on, making a different affix stronger. The affixes chosen for this are, much like the sigil itself, yet another mystery."]
+		}
+		quest.2E5E129F25707C5D.quest_desc: {
+			new: ["The &6Sigil of Supremacy&r!\\n\\nAnother sigil that cannot be crafted, similarly to &cMalice&r. Like &cMalice&r, it can overcharge &eAffixes&r. Unlike &cMalice&r, it does this to EVERY &eAffix&r on the gear, and will not reset any in the process, but has a lesser effect compared to &cMalice&r.\\n\\nYou can obtain this by beating 100 waves of the &zEndless Gateway of Apothic Invaders&r. "]
+			old: ["The &6Sigil of Supremacy&r!\\n\\nAnother sigil that cannot be crafted, similarly to &cMalice&r. Like &cMalice&r, it can make affixes stronger. Unlike &cMalice&r, it does this to EVERY affix on the gear, and will not sacrifice any in the process.\\n\\nYou can obtain this by beating 100 waves of the &zEndless Gateway of Apothic Invaders&r. "]
+		}
+		quest.099C2A9B9CA138F8.quest_desc: {
+			new: ["&6Mythics&r are some of the greatest we can get! \\n\\n&6Mythics&r are found only in &lWorld Tier: &6Summit&r and in &lWorld Tier: &4Pinnacle&r, where they are most common. \\n\\n&6Godforged Pearls&r are made from using &6Mythic&r &eItems&r in a &c&lSalvaging Table&r."]
+			old: ["&6Mythic&r are some of the greatest we can get! \\n\\n&6Mythics&r are found only in &lWorld Tier: &6Summit&r and in &lWorld Tier: &4Pinnacle&r, where they are most common. \\n\\n&6Godforged Pearls&r are made from using &6Mythic&r &eItems&r in a &c&lSalvaging Table&r."]
+		}
+		quest.097FDC136BC843A7.quest_desc: {
+			new: ["&lWorld Tier: &6Summit&r will need you to upgrade your &eArmor&r and &eTool/Weapon&r from &aUncommon&r to &9Rare&r (or better)! You'll also need to kill &0&lThe Wither&r. \\n\\n&0&lThe Wither&r doesn't need to be an &4Invader&r and honestly, it'll be easier if he isn't. \\n\\nIn &6&lSummit&r &5Epic&r &eItems &fand &2Gems&r will be the most common, and for &eItems&r you can now get &6Mythic&r and with &aGems&r you can find &zPerfect&r. Again, both being extremely rare! \\n\\nNow you'll get 75% Experience Gained, 50% Luck, and &a75 Max Eterna&r. \\n\\n&4Monsters&r will also be buffed to get 12 Armor Points, 10 Armor Toughness, 15 Armor Pierce, and 10 Protection Pierce. \\n\\nIs it just me or are their upgrades better than ours?"]
+			old: ["&lWorld Tier: &6Summit&r will need you to upgrade your &eArmor&r and &eTool/Weapon&r from &aUncommon&r to &9Rare&r (or better)! You'll also need to kill &0&lThe Wither&r. \\n\\n&0&lThe Wither&r doesn't need to be an &4Invader&r and honestly, it'll be easier if he isn't. \\n\\nIn &6&lSummit&r &5Epic&r &eItems &fand &2Gems&r will be the most common, and for &eItems&r you can now get &6Mythic&r and with &aGems&r you can find &zPerfect&r. Again, both being extremely rare! \\n\\nNow we'll get 75% Experience Gained and 50% Luck. \\n\\n&4Monsters&r will also be buffed to get 12 Armor Points, 10 Armor Toughness, 15 Armor Pierce, and 10 Protection Pierce. \\n\\nIs it just me or are their upgrades better than ours?"]
+		}
+		quest.2A032EC573B5316C.quest_desc: {
+			new: ["To get the &lWorld Tier: &2Frontier&r, you'll obviously need &9&lHaven&r done, but also need a few &eAffixed Items&r! \\n\\nHow many? You need a full set of &eAffixed Armor&r plus an &eAffixed Tool &for &eWeapon&r. \\n\\nNow &aUncommon&r &4Invaders &fand &aGems&r are most abundant, with the rest following in order: &8Common&r, &9Rare&r, and also &5Epic&r. \\n\\nThe Player with &lWorld Tier: &2Frontier&r will get a 35% Experience Boost, 20% Luck, and &a45 Max Eterna&r in total! \\n\\nHey, not everything will be easy though, now &4Monsters&r will gain 4 Armor Points extra."]
+			old: ["To get the &lWorld Tier: &2Frontier&r, you'll obviously need &9&lHaven&r done, but also need a few &eAffixed Items&r! \\n\\nHow many? You need a full set of &eAffixed Armor&r plus an &eAffixed Tool &for &eWeapon&r. \\n\\nNow &aUncommon&r &4Invaders &fand &aGems&r are most abundant, with the rest following in order: &8Common&r, &9Rare&r, and also &5Epic&r. \\n\\nThe Player with &lWorld Tier: &2Frontier&r will get a 35% Experience Boost plus 20% Luck! \\n\\nHey, not everything will be easy though, now &4Monsters&r will gain 4 Armor Points extra."]
+		}
+		quest.7EF873DCEB3B9D48.quest_desc: {
+			new: ["The last &lWorld Tier&r, &lWorld Tier: &4Pinnacle&r. To get it, you'll need to Kill the &d&lEnder Dragon&r atleast once, and equip all &5Epic&r or &6Mythic&r &eArmor &fand &eTool/Weapon&r. \\n\\nNow &5Epic&r and &6Mythic&r are most common for &aGems &fand &eTools&r, plus we are more likely to get &zPerfect&r gems! This comes at the loss of &8Common&r and &aUncommon&r but hey, who'll miss them! \\n\\nOn the same pattern of upgrades you'll get 125% Experience Gained and 100% Luck increase, and your &aMax Eterna&r reaches its highest point, &a100&r. \\n\\n&4Monsters&r will receive their final upgrade, getting: 16 Armor Points, 20 Armor Toughness, 25 Armor Pierce, and 20 Protection Pierce."]
+			old: ["The last &lWorld Tier&r, &lWorld Tier: &4Pinnacle&r. To get it, you'll need to Kill the &d&lEnder Dragon&r atleast once, and equip all &5Epic&r or &6Mythic&r &eArmor &fand &eTool/Weapon&r. \\n\\nNow &5Epic&r and &6Mythic&r are most common for &aGems &fand &eTools&r, plus we are more likely to get &zPerfect&r gems! This comes at the loss of &8Common&r and &aUncommon&r but hey, who'll miss them! \\n\\nOn the same pattern of upgrades we'll get 125% Experience Gained and 100% Luck increase. \\n\\n&4Monsters&r will receive their final upgrade, getting: 16 Armor Points, 20 Armor Toughness, 25 Armor Pierce, and 20 Protection Pierce."]
+		}
+		quest.377A41499D8218C9.quest_desc: {
+			new: ["The 1st &lWorld Tier&r is &l&9Haven&r! It being the first makes it the easiest to explore with and easiest to obtain. \\n\\nTo get it you just need to hold an &eAffixed Item&r in your Hand! It will automatically be set when unlocked. \\n\\nThe &lWorld Tier: &9Haven&r has highest chances for &8Common&r &aGear&r &fand &aGems&r. It can also have &aUncommon&r and very rarely, &9Rare&r.\\n\\nYour &aMax Eterna&r is also set to &a30&r on this &lWorld Tier&r.\\n\\nThis is also the only &lWorld Tier&r where &4Invaders&r cannot spawn naturally."]
+			old: [
+				"The 1st &lWorld Tier&r is &l&9Haven&r! It being the first makes it the easiest to explore with and easiest to obtain. \\n\\nTo get it you just need to hold an &eAffixed Item&r in your Hand! It will automatically be set when unlocked. \\n\\nThe &lWorld Tier: &9Haven&r has highest chances for &8Common&r &aGear&r &fand &aGems&r. It can also have &aUncommon&r and very rarely, &9Rare&r."
+				""
+				"This is also the only &lWorld Tier&r where &4Invaders&r cannot spawn naturally."
+			]
+		}
+	}
+	"chapters/hostile_neural_networks.snbt": {
+		quest.104EBBC08B4733F5.quest_desc: {
+			new: ["The &dSimulation Chamber&r is the main machine within HNN.\\n\\nWhen given power, it will run simulations based on the &bData Model&r that is placed inside. The power required also depends on the &bData Model&r placed inside, and can be seen within the &bModel&r's tooltip. \\n\\nThe machine also requires at least one &9Prediction Matrix&r to run a simulation.\\n\\nSimulations have two modes.\\n\\n&a&lTraining:&r\\nThe &bData Model&r gains data, without producing any &eGeneralized Predictions&r or &dMob Predictions&r. Costs more &cForge Energy&r compared to &2&lInference&r.\\n\\n&2&lInference:&r\\nThe result of the simulation will be output onto the Matrix, without the &bData Model&r gaining any Data.\\n\\nSimulations will always produce some kind of &eGeneralized Prediction&r, which can be used in various crafting recipes. They also vary depending on the origin of the mob in the Data Model.\\n\\nIf the simulation succeeds, you will receive a &dMob Prediction&r based off of the model. The higher the tier of the Data Model used, the higher the success rate is for a simulation.\\n\\nFaster compared to &a&lTraining&r."]
+			old: ["The &dSimulation Chamber&r is the main machine within HNN.\\n\\nWhen given power, it will run simulations based on the &bData Model&r that is placed inside. The power required also depends on the Data Model placed inside, and can be seen within the Model's tooltip. \\n\\nThe machine also requires at least one &9Prediction Matrix&r to run a simulation.\\n\\nThe result of the simulation will be output onto the Matrix. Simulations will always produce some kind of &eGeneralized Prediction&r, which can be used in various crafting recipes. They also vary depending on the origin of the mob in the Data Model.\\n\\nIf the simulation succeeds, you will receive a &dMob Prediction&r based off of the model. The higher the tier of the Data Model used, the higher the success rate is for a simulation."]
+		}
+	}
+	"chapters/image.snbt": {
+		image.5DD0E2CCA511EB38.title: {
+			new: "Locomotiva a Vapor"
+			old: "Steam Locomotive"
+		}
+		image.334656E1BD2BD2F3.title: {
+			new: "Descarregamento de Itens"
+			old: "Item Unloading"
+		}
+		image.5A2483B4DDFA0681.title: {
+			new: "Locomotiva Elétrica"
+			old: "Electric Locomotive"
+		}
+		image.732F32D55E7EC2CD.title: {
+			new: "Atualização de Máquina Suprêmio Despertada"
+			old: "Awakened Supremium Machine Upgrade"
+		}
+		image.558C038DD5F819D9.title: {
+			new: "Atualização de Máquina Prudêncio"
+			old: "Prudentium Machine Upgrade"
+		}
+		image.04B12AEBCD19BEC3.title: {
+			new: "Bastião"
+			old: "Bastion"
+		}
+		image.44926ADFA458AA5B.title: {
+			new: "Trilho: Remover, Reposicionar e Colocar"
+			old: "Track: Remover, Relayer, and Placer"
+		}
+		image.5FFE8A4A38F129ED.title: {
+			new: "Selo da Supremacia"
+			old: "Sigil of Supremacy"
+		}
+		image.67DEC8CDB70FC46C.title: {
+			new: "Regador Imperita"
+			old: "Imperium Watering Can"
+		}
+		image.56C829DDAB6232DC.title: {
+			new: "Trilhos de Tira de Ferro"
+			old: "Strap Iron Tracks"
+		}
+		image.61281CF22D8588F5.title: {
+			new: "Barco do End"
+			old: "End Ship"
+		}
+		image.149A176D07AB65FF.title: {
+			new: "Peitoral Quântico"
+			old: "Quantum Chestplate"
+		}
+		image.3DB1AFCC24A14147.title: {
+			new: "Atualização de Máquina Tértio"
+			old: "Tertium Machine Upgrade"
+		}
+		image.33BF690417B5AAF7.title: {
+			new: "Entre no Discord!"
+			old: "Join the Discord!"
+		}
+		image.1E73A86C220C781F.title: {
+			new: "Naufrágio"
+			old: "Shipwreck"
+		}
+		image.542273876E978E47.title: {
+			new: "Extrator de Fluidos"
+			old: "Fluid Extractor"
+		}
+		image.36916A3FBFE2FEED.title: {
+			new: "Ejetor de Carrinho"
+			old: "Cart Dispenser"
+		}
+		image.06EE3F93C5A3A9C8.title: {
+			new: "Guia de Productive Trees do Pilpoh"
+			old: "Pilpoh's Productive Trees Guide"
+		}
+		image.3E2A18876931DED5.title: {
+			new: "Mina Abandonada"
+			old: "Mineshaft"
+		}
+		image.0F50CB9DB3CC94EF.title: {
+			new: "Barco do End"
+			old: "End Ship"
+		}
+		image.0B2D5CD977F74A21.title: {
+			new: "Botas Quânticas"
+			old: "Quantum Boots"
+		}
+		image.7954108F702D0879.title: {
+			new: "Vila"
+			old: "Village"
+		}
+		image.31A75754D07F903D.title: {
+			new: "Naufrágio"
+			old: "Shipwreck"
+		}
+		image.19E62B5941EBF148.title: {
+			new: "Caldeira de Água"
+			old: "Water Boiler"
+		}
+		image.7A4A52A07080C934.title: {
+			new: "Carrinho de Mina com Tanque"
+			old: "Minecart with Tank"
+		}
+		image.01F3B1AF08586415.title: {
+			new: "Mina Abandonada"
+			old: "Mineshaft"
+		}
+		image.2E1593F0530D3C98.title: {
+			new: "Forno de Coque"
+			old: "Coke Oven"
+		}
+		image.316FD2688199433A.title: {
+			new: "Fortaleza Subterrânea"
+			old: "Stronghold"
+		}
+		image.48DD1E597A03883A.title: {
+			new: "Alto-forno"
+			old: "Blast Furnace"
+		}
+		image.17F3F3EC2F3CF866.title: {
+			new: "Chassi de Máquina"
+			old: "Machine Frame"
+		}
+		image.1FFF2C2FAFC33232.title: {
+			new: "Fortaleza Subterrânea"
+			old: "Stronghold"
+		}
+		image.1AC0CCC618E9CBE8.title: {
+			new: "Extrator de Fluidos"
+			old: "Fluid Extractor"
+		}
+		image.04BECD7AD8A41E3D.title: {
+			new: "Regador Prudêncio"
+			old: "Prudentium Watering Can"
+		}
+		image.226296BE0F417E6D.title: {
+			new: "Extrator de Fluidos"
+			old: "Fluid Extractor"
+		}
+		image.09D9B906D64EEC0C.title: {
+			new: "Fortaleza"
+			old: "Fortress"
+		}
+		image.74D93D051E3DDE39.title: {
+			new: "Regador Tértio"
+			old: "Tertium Watering Can"
+		}
+		image.2CA16137DBB87580.title: {
+			new: "Bastião"
+			old: "Bastion"
+		}
+		image.2294CF2CFFFA8E1B.title: {
+			new: "Unidade de Processamento de Látex"
+			old: "Latex Processing Unit"
+		}
+		image.26CF1BB4714A782E.title: {
+			new: "Regador Suprêmio"
+			old: "Supremium Watering Can"
+		}
+		image.3F19AF29B4306BCD.title: {
+			new: "Portal em Ruínas"
+			old: "Ruined Portal"
+		}
+		image.05A71C0D9576E258.title: {
+			new: "Tutorial de Automação do Cristal do Tempo do Pilpoh"
+			old: "Pilpoh's Time Crystal Automation Tutorial"
+		}
+		image.2476056FD4A4FBC8.title: {
+			new: "Atualização de Máquina Imperita"
+			old: "Imperium Machine Upgrade"
+		}
+		image.25737DD1D11B4265.title: {
+			new: "Triturador"
+			old: "Crusher"
+		}
+		image.6569C0513FF60AFB.title: {
+			new: "Ruínas do Oceano"
+			old: "Ocean Ruin"
+		}
+		image.406A39A037D0C241.title: {
+			new: "Vila"
+			old: "Village"
+		}
+		image.4E5BC7C1274B7182.title: {
+			new: "Cidade do End"
+			old: "End City"
+		}
+		image.5DD6AF1EA4BAD0DD.title: {
+			new: "Trilhos Abandonados"
+			old: "Abandoned Tracks"
+		}
+		image.5E4C15D0CB71DB28.title: {
+			new: "Cidade do End"
+			old: "End City"
+		}
+		image.1B63B86E2F4D06B9.title: {
+			new: "Carregamento de Fluidos"
+			old: "Fluid Loading"
+		}
+		image.39200CD2D52BC01A.title: {
+			new: "Trilhos Reforçados"
+			old: "Reinforced Tracks"
+		}
+		image.791EFC83C44C2F16.title: {
+			new: "Portal em Ruínas"
+			old: "Ruined Portal"
+		}
+		image.6C2E98D684A1151D.title: {
+			new: "Carregamento de Itens"
+			old: "Item Loading"
+		}
+		image.46F53AD18FF5C0E8.title: {
+			new: "Posicionador de Blocos"
+			old: "Block Placer"
+		}
+		image.7471FCFF6684EA8B.title: {
+			new: "Atualização de Máquina Infério"
+			old: "Inferium Machine Upgrade"
+		}
+		image.23E849CECDB50D7B.title: {
+			new: "Calças Quânticas"
+			old: "Quantum Leggings"
+		}
+		image.2E4DE5F916E2E67C.title: {
+			new: "Capacete Quântico"
+			old: "Quantum Helmet"
+		}
+		image.6BE289B015B17CB0.title: {
+			new: "Ruínas do Oceano"
+			old: "Ocean Ruin"
+		}
+		image.25F179F102B01B6C.title: {
+			new: "Forno a Vapor"
+			old: "Steam Oven"
+		}
+		image.7CCAB9F4E5AA460D.title: {
+			new: "Tanque de Água"
+			old: "Water Tank"
+		}
+		image.10C5FAD48E8A1B54.title: {
+			new: "Selo da Supremacia"
+			old: "Sigil of Supremacy"
+		}
+		image.362BDD0CB412D079.title: {
+			new: "Vídeo de Industrial Foregoing do BucketSt"
+			old: "BucketSt's Industrial Foregoing Video"
+		}
+		image.359C2361F7CD2ED9.title: {
+			new: "Trilhos Elétricos"
+			old: "Electric Tracks"
+		}
+		image.1002C386BE35EA2F.title: {
+			new: "Turbina a Vapor"
+			old: "Steam Turbine"
+		}
+		image.0201074933F6495B.title: {
+			new: "Fortaleza"
+			old: "Fortress"
+		}
+		image.7DF3C0C70DE6721A.title: {
+			new: "Ejetor de Trem"
+			old: "Train Dispenser"
+		}
+		image.3A01454B7B3D5F41.title: {
+			new: "Regador Infério"
+			old: "Inferium Watering Can"
+		}
+		image.58A233F817C33971.title: {
+			new: "Carrinho de Mina com Célula de Energia"
+			old: "Minecart with Energy Cell"
+		}
+	}
+	"chapters/create.snbt": {
+		quest.1BA11428DF7541AD.quest_desc: {
+			new: ["Because the &eSequenced Gearshift&r uses much fancier &eItems&r it is clearly a much fancier &6Machine&r! \\n\\nJudging by how confusing its GUI is, I'd say so... Hopefully I can help make it less confusing! No promises though. \\n\\nLike the normal &dGearshift&r it will need a &4Redstone Signal&r to do whatever is designed. We'll need to configure its GUI to make a \"script\". \\n\\nFirst, is the Instructions, these are the actual tasks it will perform. Here it can turn its &8Shaft&r, affect a Pulley, wait, or just stop. It will need to stop at the end, it is inevitable. \\n\\nNext, is the Angle. The Angle that either the &8Shaft&r or Pulley will turn. From 360 to 1 degree! \\n\\nLast is the Speed and Direction. It changes how quickly the Shaft or Pulley move and either &e&oClockwise&r or &9&oCounter-Clockwise&r."]
+			old: ["Because the &eSequenced Gearshift&r uses much fancier &eItems&r it is clearly a much fancier &6Machine&r! \\n\\nJudging by how confusing its GUI is, I'd say so... Hopefully I can help make it less confusing! No promises though. \\n\\nLike the normal &dGearshift&r it will need a &4Redstone Signal&r to do whatever is designed. We'll need to configure its GUI to make a \"script\". \\n\\nFirst, is the Instructions, these are the actual tasks it will preform. Here it can turn its &8Shaft&r, effect a Pulley, wait, or just stop. It will need to stop at the end, it is inevitable. \\n\\nNext, is the Angle. The Angle that either the &8Shaft&r or Pulley will turn. From 360 to 1 degree! \\n\\nLast is the Speed and Direction. It changes how quickly the Shaft or Pulley move and either &e&oClockwise&r or &9&oCounter-Clockwise&r."]
+		}
+		quest.0F16498769DFB3B0.quest_desc: {
+			new: ["What will we need all that &8Andesite&r for? We'll need &8Andesite Alloys&r! \\n\\n&8Andesite Alloys&r are made by combining 2 &8Andesite&r with either 2 &7Iron Nuggets&r or 2 &7Zinc Nuggets&r. \\n\\n&8Andesite Alloys&r don't do much on their own, rather they are the Crafting Ingredient for almost all Machines and Items. So yeah, we'll need a few."]
+			old: ["What will we need all that &8Andesite&r for? We'll need &8Andesite Alloys&r! \\n\\n&8Andesite Alloys&r are made by combining 2 &8Andesite&r with either 2 &7Iron Nuggets&r or 2 &7Zinc Nuggets&r. \\n\\n&8Andesite Alloys&r don't do much on their own, rather they are the Crafting Ingrediant for almost all Machines and Items. So yeah, we'll need a few."]
+		}
+		quest.127F9EAC7C305BF5.quest_desc: {
+			new: ["Trust me when I say, you'll need a &6Wrench&r! \\n\\nThe &6Wrench&r is the perfect Swiss Army Knife-like Tool for &6&lCreate&r. You can rotate Blocks, break them, set their configs, what can't you do with it! \\n\\nTo break Blocks just Shift Right Click any &6&lCreate&r Block and it'll break them. \\n\\nTo Rotate a Block just normal Right Click them with the &6Wrench&r. Unfortunately this doesn't give us free &dRotational Power&r, but it is still useful for slip ups! \\n\\nIt will also be useful for setting up &aContraptions&r, but that is for later."]
+			old: ["Trust me when I say, you'll need a &6Wrench&r! \\n\\nThe &6Wrench&r is the perfect Swiss Army Knife like Tool for &6&lCreate&r. You can rotate Blocks, break them, set their configs, what can't you do with it! \\n\\nTo break Blocks just Shift Right Click any &6&lCreate&r Block and it'll break them. \\n\\nTo Rotate a Block just normal Right Click them with the &6Wrench&r. Unfortunately this doesn't give us free &dRotational Power&r, but it is still useful for slip ups! \\n\\nIt will also be useful for setting up &aContraptions&r, but that is for later."]
+		}
+		quest.5DC892BA79EB52EC.quest_desc: {
+			new: ["The &6Mixer&r can do quite a few different Recipes but all will need a &8Basin&r below it! \\n\\nWe can &6Mix&r, this combines &bLiquids&f and &eItems&f into new &eItems&r. Like Baking! \\n\\n&6Brewing&r can combine the right &bLiquids &fand &eItems&r to make Liquid Potions. These can then be scooped out into Empty Bottles to get Potions. You'll need Heat from a &cBlaze Burner&r to &6Brew&r though. \\n\\nLast is &6Automated Shapeless Crafting&r. To the normal Player this might be a confusing statement but trust me it ain't that bad. &6Shapeless Crafting&r is a Recipe that can be made with the ingredients in any pattern. \\n\\nLike Dying Wool, the Dye and Wool can be anywhere in the Crafting Table. Or even Silent Gear parts and patterns!"]
+			old: ["The &6Mixer&r can do quite a few different Recipes but all will need a &8Basin&r below it! \\n\\nWe can &6Mix&r, this combines &bLiquids&f and &eItems&f into new &eItems&r. Like Baking! \\n\\n&6Brewing&r can combine the right &bLiquids &fand &eItems&r to make Liquid Potions. These can then be scooped out into Empty Bottles to get Potions. You'll need Heat from a &cBlaze Burner&r to &6Brew&r though. \\n\\nLast is &6Automated Shapeless Crafting&r. To the normal Player this might be a confusing statement but trust me it ain't that bad. &6Shapeless Crafting&r is a Recipe that can be made with the ingrediants in any pattern. \\n\\nLike Dying Wool, the Dye and Wool can be anywhere in the Crafting Table. Or even Silent Gear parts and patterns!"]
+		}
+		quest.29917E6196649F5D.quest_desc: {
+			new: ["Speed is distance over time, AKA how long it takes to get from point A to point B... well... we are working with &dRevolutions&r, it is more how long it takes to get from point A to point A in this big Circle. \\n\\nAnyways it is how quick our &6Machines&r move, including &dCogs&r and &8Shafts&r! \\n\\nThis is important because Speed will effect how other &6Machines&r work. Some will need a certain Speed and others will work more efficiently at higher Speeds. \\n\\nWe can place a Speedometer (yes, like in a car) into our Kinetic System to see how fast everything is moving."]
+			old: ["Speed is distance over time, AKA how long it takes to get from point A to point B... well... we are working with &dRevolutions&r, it is more how long it takes to get from point A to point A in this big of a Circle. \\n\\nAnyways it is how quick our &6Machines&r move, including &dCogs&r and &8Shafts&r! \\n\\nThis is important because Speed will effect how other &6Machines&r work. Some will need a certain Speed and others will work more efficiently at higher Speeds. \\n\\nWe can place a Speedometer (yes, like in a car) into our Kinetic System to see how fast everything is moving."]
+		}
+		quest.3314FBC4FEAE1D08.quest_desc: {
+			new: ["&6Deployer&r is a very fun &6Machine&r for poking! \\n\\nBy poking, I mostly mean &eItem Interactions&r that we can preform. Place an &eItem&r into the &6Deployer Hand&r, and then give it &dRotational Power&r. It will then place the &eItem&r into the Block on a &eDepot&f or &eBelt&r below. \\n\\nThis will mimic many actions that we can do, like adding &6Wax&r to &cCopper&r. \\n\\nYou'll most likely use it for &8Andesite&r/&cCopper&r/&eBrass&r Casings and &4Polished Rose Quartz&r."]
+			old: ["&6Deployer&r is a very fun &6Machine&r for poking! \\n\\nBy poking, I mostly mean &eItem Interactions&r that we can preform. Place an &eItem&r into the &6Deployer Hand&r, and then give it &dRotational Power&r. It will then place the &eItem&r into the Block on a &eDepot&f or &eBelt&r below. \\n\\nThis will mimick many actions that we can do, like adding &6Wax&r to &cCopper&r. \\n\\nYou'll most likely use it for &8Andesite&r/&cCopper&r/&eBrass&r Casings and &4Polished Rose Quartz&r."]
+		}
+		quest.16B0C1F7B951C19D.quest_desc: {
+			new: ["Now we have our &ePackager&r we can now have &ePackages&r! \\n\\nThere is 4 variants but that doesn't change anything with them besides apperance. It is entirely random which one you get. \\n\\n&ePackages&r are &eItems&r and when Placed on the Ground will become Entities. You can Right Click them after they were Placed to Pick them up, or Break them to get the &eItems&r out. You can also move them like any other Entity! \\n\\n&ePackages&r can also be used to interact with other &6Machines&r. Like being placed on &8Chain Conveyors&f or &eBelts&r!"]
+			old: ["Now we have our &ePackager&r we can now have &ePackages&r! \\n\\nThere is 4 varients but that doesn't change anything with them besides apperance. It is entirely random which one you get. \\n\\n&ePackages&r are &eItems&r and when Placed on the Ground will become Entities. You can Right Click them after they were Placed to Pick them up, or Break them to get the &eItems&r out. You can also move them like any other Entity! \\n\\n&ePackages&r can also be used to interact with other &6Machines&r. Like being placed on &8Chain Conveyors&f or &eBelts&r!"]
+		}
+		quest.495B0CC178B4CFA9.quest_desc: {
+			new: ["The &eBrass Funnel&r is placed and used similar to the &eAndesite Tunnel&r. \\n\\nBut each side comes with new configs! \\n\\nThe Input Side will now come with a Filter option. Just place the &eItem&r in, and it will only take in that &eItem&r. \\n\\nThe Output Side will now come with a limit. You can Scroll to set a number from 1 to 64. You can also choose whether it will Output exactly that amount, or up to that amount. \\n\\nIf it is exactly that amount, it will wait until that amount is within the Inventory to Output it. If it is up to, it will keep Outputting &eItems&r until that number is reached."]
+			old: ["The &eBrass Funnel&r is placed and used similar to the &eAndesite Tunnel&r. \\n\\nBut each side comes with new configs! \\n\\nThe Input Side will now come with a Filter option. Just place the &eItem&r in, and it will only take in that &eItem&r. \\n\\nThe Output Side will now come with a limit. You can Scroll to set a number from 1 to 64. You can also choose whether it will Output exactly that amount, or up to that amount. \\n\\nIf it is exactly that amout, it will wait until that amount is within the Inventory to Output it. If it is up to, it will keep Outputting &eItems&r until that number is reached."]
+		}
+	}
+	"chapters/mekanism_reactors.snbt": {
+		quest.50F23B2688D7E699.quest_desc: {
+			new: ["With 1,000mB of &dAntimatter&r processed through a &5&lChemical Crystallizer&r we can make 1 &dAntimatter Pellet&r. \\\\n\\\\nThat means it takes 1,000,000mB &aPolonium&r or 1MmB &aPolonium&r. \\\\n\\\\nFor all that &aPolonium&r you'll need 5,000,000mB &8Nuclear Waste&r and &2Fissile Fuel&r to make the &8Nuclear Waste&r. Only 5MmB &2Fissile Fuel&r... only! \\\\n\\\\nBut finally, we have it! The most valued &eItem&r in all of &5&lMekanism&r! The &dAntimatter Pellet&r. \\\\n\\\\nWe can now make our MekaSuit or more storage for the &e&lQIO&r!"]
+			old: ["With 1,000mB of &dAntimatter&r processed through a &5&lChemical Crystallizer&r we can make 1 &dAntimatter Pellet&r. \\n\\nThat means it takes 1,000,000mB &aPolonium&r or 1MmB &aPolonium&r. \\n\\nFor all that &aPolonium&r you'll need 5,000,000mB &8Nuclear Waste&r and &2Fissile Fuel&r to make the &8Nuclear Waste&r. Only 5MmB &2Fissile Fuel&r... only! \\n\\nBut finally, we have it! The most valued &eItem&r in all of &5&lMekanism&r! The &dAntimatter Pellet&r. \\n\\nWe can now make our MekaSuit, more storage for the &e&lQIO&r, and even the &6&lATM Star&r!"]
+		}
+		quest.3561A33758A1E8C3.quest_desc: {
+			new: [
+				"First, we build. Second, we start up. Third, we use. \\n\\nAll sides of the &c&lFusion Reactor&r use a 5 Block long Diamond shape. The frame will be made of &cFusion Reactor Casing&r and the inside can be made of Reactor Glass&r. \\n\\nThe &cFusion Reactor Ports&r can replace any Reactor Glass Block in the Structure (besides where other Blocks are needed) \\n\\nThe &cLaser Focus Matrix&r will also be placed where Reactor Glass is. Hopefully not to close to other Blocks though! \\n\\nThe &cFusion Reactor Controller&r, the most important Block, will be placed in the square center of the top layer. \\n\\nDon't worry the inside will be hollow... I don't recommend checking if it is when it's on, that'll kill you. "
+				"{@pagebreak}"
+				"BOOM! It is built! Now how do we get this puppy working? \\n\\nFirst, grab your &eHohlraum&r, which should be filled! And place it within the GUI of the &c&lFusion Reactor&r. \\n\\nWe can open its GUI by Right Clicking the &cController&r of a fully built one. \\n\\nNow along with the filled &eHohlraum&r we'll need to throw some Fuel in! \\n\\nThen, we can blast the &4Laser Amplifier&r with atleast 1GFE, into the &cLaser Focus Matrix&r. \\n\\nNow it is ready for use! "
+				"{@pagebreak}"
+				"Most of the use is through the &cController&r. First, we get the main menu. This is just for the &eHohlraum&r slot, and telling you if it is built correctly! \\n\\nNext, is the Heat menu. This is for how Hot the &6Temperature&r of the &c&lFusion Reactor&r is. This determines the amount of &aEnergy&r or Steam is created! And is determined by the &4Laser Amplifier&r being shot into it, and if it is cooled. \\n\\nWe can change the Units of &6Temperature&r or even &aEnergy&r with the bottom Buttons! \\n\\nNext menu, is for Fuel! It will show how much &cDeuterium&r, &aTritium&r, and &5D-T Fuel&r is within the &c&lFusion Reactor&r. We can also change the Inject Rate, how much Fuel is used up each Tick. \\n\\nStats menu shows us a lot of fancy numbers! They're only important to nerds so we won't focus on them!"
+				"{@pagebreak}"
+				"{image:atm:textures/questpics/mek/mek_fusion1.png width:100 height:100 align:center}"
+				"{image:atm:textures/questpics/mek/mek_fusion2.png width:110 height:90 align:center}"
+				"{image:atm:textures/questpics/mek/mek_fusion3.png width:110 height:100 align:center}"
+				"{image:atm:textures/questpics/mek/mek_fusion4.png width:100 height:100 align:center}"
+				"{image:atm:textures/questpics/mek/mek_fusion5.png width:100 height:100 align:center}"
+			]
+			old: [
+				"First, we build. Second, we start up. Third, we use. \\n\\nAll sides of the &c&lFusion Reactor&r use a 5 Block long Diamond shape. The frame will be made of &cFusion Reactor Casing&r and the inside can be made of Reactor Glass&r. \\n\\nThe &cFusion Reactor Ports&r can replace any Reactor Glass Block in the Structure (besides where other Blocks are needed) \\n\\nThe &cLaser Focus Matrix&r will also be placed where Reactor Glass is. Hopefully not to close to other Blocks though! \\n\\nThe &cFusion Reactor Controller&r, the most important Block, will be placed in the square center of the top layer. \\n\\nDon't worry the inside will be hollow... I don't recommend checking if it is when it's on, that'll kill you. "
+				"{@pagebreak}"
+				"BOOM! It is built! Now how do we get this puppy working? \\n\\nFirst, grab your &eHohlraum&r, which should be filled! And place it within the GUI of the &c&lFusion Reactor&r. \\n\\nWe can open its GUI by Right Clicking the &cController&r of a fully built one. \\n\\nNow along with the filled &eHohlraum&r we'll need to throw some Fuel in! \\n\\nThen, we can blast the &4Laser Amplifier&r with atleast 1GFE, into the &cLaser Focus Matrix&r. \\n\\nNow it is ready for use! "
+				"{@pagebreak}"
+				"Most of the use is through the &cController&r. First, we get the main menu. This is just for the &eHohlraum&r slot, and telling you if it is built correctly! \\n\\nNext, is the Heat menu. This is for how Hot the &6Temperature&r of the &c&lFusion Reactor&r is. This determines the amount of &aEnergy&r or Steam is created! And is determined by the &4Laser Amplifier&r being shot into it, and if it is cooled. \\n\\nWe can change the Units of &6Temperature&r or even &aEnergy&r with the bottom Buttons! \\n\\nNext menu, is for Fuel! It will show how much &cDeuterium&r, &aTritium&r, and &5D-T Fuel&r is within the &c&lFusion Reactor&r. We can also change the Inject Rate, how much Fuel is used up each Tick. \\n\\nStats menu shows us a lot of fancy numbers! They're only important to nerds so we won't focus on them!"
+				"{@pagebreak}"
+				"(new page placeholder text)"
+				"{image:atm:textures/questpics/mek/mek_fusion1.png width:100 height:100 align:center}"
+				"{image:atm:textures/questpics/mek/mek_fusion2.png width:110 height:90 align:center}"
+				"{image:atm:textures/questpics/mek/mek_fusion3.png width:110 height:100 align:center}"
+				"{image:atm:textures/questpics/mek/mek_fusion4.png width:100 height:100 align:center}"
+				"{image:atm:textures/questpics/mek/mek_fusion5.png width:100 height:100 align:center}"
+			]
+		}
+	}
+	"chapters/generators.snbt": {
+		quest.47750F3CB020104C.quest_desc: {
+			new: ["&lIron Furnaces&r starts with the legendary Furnace!"]
+			old: ["&lGenerator's Galore&r and &lIron Furnaces&r are two different but also similar mods. Both start with the legendary Furnace!"]
+		}
+	}
+	"chapters/artifacts.snbt": {
+		quest.321F16645640C462.quest_desc: {
+			new: ["Enderpearls are a fun way of travel! But don't you hate that the Enderpearl gets consumed on use and takes 2 Hearts of damage with each use? \\n\\nWith &9Warp Drive&r that all goes away, clearly making Enderpearls the greatest transportation! Hunger gets consumed instead of the Enderpearl and no longer take damage from using an Enderpearl. When all Hunger Bars are depleted it will go back to consuming Enderpearls."]
+			old: ["Enderpearls are a fun way of travel! (Helpful for the Bumblezone, I wonder if we'll get a Quest chapter for that Mod!) But don't you hate that the Enderpearl gets consumed on use and takes 2 Hearts of damage with each use? \\n\\nWith &9Warp Drive&r that all goes away, clearly making Enderpearls the greatest transportation! Hunger gets consumed instead of the Enderpearl and no longer take damage from using an Enderpearl. When all Hunger Bars are depleted it will go back to consuming Enderpearls."]
+		}
+	}
+}

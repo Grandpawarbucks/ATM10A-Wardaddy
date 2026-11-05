@@ -1,0 +1,13 @@
+name = "Smooth Font 32x"
+filename = "SmoothFont_1.21.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/k3qLOytc/versions/Cino96nh/SmoothFont_1.21.zip"
+hash-format = "sha512"
+hash = "156802b8edabf1ff468830f5aed20b1ad7df7465ed09d99f883e7cd6cf6fe0b4519a9e6da02d8414a203254f73835dabc7cc76882571a4f3d2267f6d215cbcc0"
+
+[update]
+[update.modrinth]
+mod-id = "k3qLOytc"
+version = "Cino96nh"
