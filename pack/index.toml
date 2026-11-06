@@ -16681,6 +16681,10 @@ file = "kubejs/server_scripts/QoL/gamerules.js"
 hash = "cd03bde0772d6ba32fd1e7e76bfe6f0be2caf9444366bf04f8f58f098dac6ab8"
 
 [[files]]
+file = "kubejs/server_scripts/QoL/max_relics.js"
+hash = "695e7c16714544053906e0381221d10cf01e2f71fbbd0c9c74a0293352a743fc"
+
+[[files]]
 file = "kubejs/server_scripts/Tweaks/clearing_recipes.js"
 hash = "5a4f256fd72f390af20eb5471b6c03714b8a551e311fb297ac5d75bd8540f11d"
 
