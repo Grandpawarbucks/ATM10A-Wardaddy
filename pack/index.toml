@@ -16670,7 +16670,7 @@ hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
 
 [[files]]
 file = "kubejs/server_scripts/QoL/chest_loot.js"
-hash = "b10b16cb49221a13bbddb7f3a1a1468c42360a45a148ba4be3b585112060642c"
+hash = "78607c2ed0eb9f24de355802543348007035277fae07160b5b67e7d5c24065cd"
 
 [[files]]
 file = "kubejs/server_scripts/QoL/faster_furnaces.js"

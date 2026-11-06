@@ -14,7 +14,7 @@ function kindOf(p) {
     if (p instanceof ConstantValue) return 'constant'
     if (p instanceof UniformGenerator) return 'uniform'
   } catch (e) { /* fall through */ }
-  const s = String(p)
+  let s = String(p)
   if (s.indexOf('ConstantValue[') == 0) return 'constant'
   if (s.indexOf('UniformGenerator[') == 0) return 'uniform'
   return null
@@ -30,11 +30,11 @@ function constantOf(p) {
 
 function scaleRolls(p) {
   if (p == null) return null
-  const kind = kindOf(p)
+  let kind = kindOf(p)
   if (kind == 'constant') return Number(p.value()) * LOOT_ROLL_MULTIPLIER
   if (kind == 'uniform') {
-    const min = constantOf(p.min())
-    const max = constantOf(p.max())
+    let min = constantOf(p.min())
+    let max = constantOf(p.max())
     return (min != null && max != null) ? [min * LOOT_ROLL_MULTIPLIER, max * LOOT_ROLL_MULTIPLIER] : null
   }
   return null
@@ -45,9 +45,12 @@ LootJS.lootTables(event => {
   event.forEachTable(table => {
     if (table.getLootType() != LootType.CHEST) return
     tables++
+    // Rhino (KubeJS's JS engine) treats `const` inside a try block in a repeatedly
+    // called callback as a redeclaration, so use plain assignment to a let here.
     table.getPools().forEach(pool => {
+      let scaled = null
       try {
-        const scaled = scaleRolls(pool.getVanillaPool().getRolls())
+        scaled = scaleRolls(pool.getVanillaPool().getRolls())
         if (scaled != null) { pool.rolls(scaled); pools++ } else skipped++
       } catch (e) {
         skipped++
