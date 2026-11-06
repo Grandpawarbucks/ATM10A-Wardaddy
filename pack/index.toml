@@ -7418,7 +7418,7 @@ hash = "0863a52eddc060fe3b61ce6442ad1f6c693ab26a241b814701c803e1c05e6c22"
 
 [[files]]
 file = "config/rootsclassic-common.toml"
-hash = "4233b0d7c0f8eb04a7b3b5d319bfe80884fd48f0997a063a3e65744f7134a2c4"
+hash = "9674599ef67a023027fca5df41bd1d7e52aa4a67a8131c38f6e7ec06c85a31b2"
 
 [[files]]
 file = "config/sable-client.toml"
