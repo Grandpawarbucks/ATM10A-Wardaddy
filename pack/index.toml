@@ -7358,7 +7358,11 @@ hash = "d7f2b587b17e79e4f53984252be21832d30039f65038f3a0a71f0c80ab6815ca"
 
 [[files]]
 file = "config/relics.yaml"
-hash = "3a06e656323ddfd8221469c3aebf0849e65638aa886d71ceb4cbf9e023b9787d"
+hash = "a99ad6248bf0f596bd577b3c02135889b7421ce1f6872180df6ed627e43cb2aa"
+
+[[files]]
+file = "config/relics/loot.yaml"
+hash = "a022e0f0320f377804ed9da5f3c10ca5eb2129f618fad69b7a4794f286870ff9"
 
 [[files]]
 file = "config/reliquary-client.toml"
