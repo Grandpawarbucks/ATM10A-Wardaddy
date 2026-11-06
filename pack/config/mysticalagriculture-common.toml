@@ -3,7 +3,7 @@
 	#The percentage chance that a passive or hostile mob will drop an Inferium Essence when killed.
 	# Default: 0.2
 	# Range: 0.0 ~ 1.0
-	inferiumDropChance = 0.0
+	inferiumDropChance = 0.2
 	#The number of uses the basic Infusion Crystal should have.
 	# Default: 1000
 	# Range: > 10
@@ -15,9 +15,9 @@
 	#The percentage chance that harvesting a Resource Crop will drop a Fertilized Essence.
 	# Default: 0.1
 	# Range: 0.0 ~ 1.0
-	fertilizedEssenceChance = 0.1
+	fertilizedEssenceChance = 0.25
 	#Should crops have a chance of dropping a second seed when harvested?
-	secondarySeedDrops = false
+	secondarySeedDrops = true
 	#Should the Wither drop essence when killed with an essence weapon?
 	witherDropsEssence = false
 	#Should the Wither drop Cognizant Dust when killed with a Mystical Enlightenment enchanted essence weapon?

@@ -1,7 +1,7 @@
 #General configuration options.
 [General]
 	#Should jetpacks be enchantable?
-	enchantableJetpacks = false
+	enchantableJetpacks = true
 	#Enable Curios integration.
 	curiosIntegration = true
 

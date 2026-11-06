@@ -14,18 +14,18 @@
 	#Peak energy generation in Joules/t for the Solar Generator. Note: It can go higher than this value in some extreme environments.
 	# Default: 50
 	# Range: 0 ~ 9223372036854775807
-	solarGeneration = 100
+	solarGeneration = 200
 	#Peak energy generation in Joules/t for the Advanced Solar Generator. Note: It can go higher than this value in some extreme environments.
 	# Default: 300
 	# Range: 0 ~ 9223372036854775807
-	advancedSolarGeneration = 800
+	advancedSolarGeneration = 1600
 
 #Settings for configuring Bio Generators
 [bio_generator]
 	#Energy produced by the Bio Generator in Joules/t.
 	# Default: 350
 	# Range: 0 ~ 9223372036854775807
-	bioGeneration = 360
+	bioGeneration = 720
 	#The capacity in mB of the fluid tank in the Bio Generator.
 	# Default: 24000
 	# Range: > 1
@@ -36,7 +36,7 @@
 	#Amount of energy in Joules the Heat Generator produces per tick. heatGeneration + heatGenerationLava * lavaSides + heatGenerationNether. Note: lavaSides is how many sides are adjacent to lava, this includes the block itself if it is lava logged allowing for a max of 7 "sides".
 	# Default: 200
 	# Range: 0 ~ 9223372036854775807
-	heatGeneration = 400
+	heatGeneration = 800
 	#Multiplier of effectiveness of Lava that is adjacent to the Heat Generator.
 	# Default: 30
 	# Range: 0 ~ 1317624576693539401

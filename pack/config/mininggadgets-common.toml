@@ -6,11 +6,11 @@
 		#Maximum power for the Mining Gadget
 		# Default: 1000000
 		# Range: > 0
-		maxPower = 1000000
+		maxPower = 2000000
 		#Base cost per block broken
 		# Default: 200
 		# Range: > 0
-		baseCost = 200
+		baseCost = 100
 
 	#Upgrade Cost Settings
 	[power.upgrades]

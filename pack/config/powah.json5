@@ -28,22 +28,22 @@
 				"nitro": 40000000
 			},
 			"transfer_rates": {
-				"starter": 480,
-				"basic": 960,
-				"hardened": 3200,
-				"blazing": 8000,
-				"niotic": 16000,
-				"spirited": 64000,
-				"nitro": 320000
+				"starter": 960,
+				"basic": 1920,
+				"hardened": 6400,
+				"blazing": 16000,
+				"niotic": 32000,
+				"spirited": 128000,
+				"nitro": 640000
 			},
 			"generation_rates": {
-				"starter": 80,
-				"basic": 160,
-				"hardened": 360,
-				"blazing": 900,
-				"niotic": 1800,
-				"spirited": 5600,
-				"nitro": 14000
+				"starter": 160,
+				"basic": 320,
+				"hardened": 720,
+				"blazing": 1800,
+				"niotic": 3600,
+				"spirited": 11200,
+				"nitro": 28000
 			}
 		},
 		"magmators": {
@@ -57,22 +57,22 @@
 				"nitro": 40000000
 			},
 			"transfer_rates": {
-				"starter": 480,
-				"basic": 960,
-				"hardened": 3200,
-				"blazing": 8000,
-				"niotic": 16000,
-				"spirited": 64000,
-				"nitro": 320000
+				"starter": 960,
+				"basic": 1920,
+				"hardened": 6400,
+				"blazing": 16000,
+				"niotic": 32000,
+				"spirited": 128000,
+				"nitro": 640000
 			},
 			"generation_rates": {
-				"starter": 80,
-				"basic": 160,
-				"hardened": 360,
-				"blazing": 900,
-				"niotic": 1800,
-				"spirited": 5600,
-				"nitro": 14000
+				"starter": 160,
+				"basic": 320,
+				"hardened": 720,
+				"blazing": 1800,
+				"niotic": 3600,
+				"spirited": 11200,
+				"nitro": 28000
 			}
 		},
 		"reactors": {
@@ -86,22 +86,22 @@
 				"nitro": 500000000
 			},
 			"transfer_rates": {
-				"starter": 2000,
-				"basic": 8000,
-				"hardened": 20000,
-				"blazing": 80000,
-				"niotic": 200000,
-				"spirited": 800000,
-				"nitro": 4000000
+				"starter": 4000,
+				"basic": 16000,
+				"hardened": 40000,
+				"blazing": 160000,
+				"niotic": 400000,
+				"spirited": 1600000,
+				"nitro": 8000000
 			},
 			"generation_rates": {
-				"starter": 400,
-				"basic": 1200,
-				"hardened": 3000,
-				"blazing": 10000,
-				"niotic": 30000,
-				"spirited": 100000,
-				"nitro": 280000
+				"starter": 800,
+				"basic": 2400,
+				"hardened": 6000,
+				"blazing": 20000,
+				"niotic": 60000,
+				"spirited": 200000,
+				"nitro": 560000
 			}
 		},
 		"solar_panels": {
@@ -115,22 +115,22 @@
 				"nitro": 40000000
 			},
 			"transfer_rates": {
-				"starter": 320,
-				"basic": 960,
-				"hardened": 3200,
-				"blazing": 12000,
-				"niotic": 40000,
-				"spirited": 128000,
-				"nitro": 400000
+				"starter": 640,
+				"basic": 1920,
+				"hardened": 6400,
+				"blazing": 24000,
+				"niotic": 80000,
+				"spirited": 256000,
+				"nitro": 800000
 			},
 			"generation_rates": {
-				"starter": 40,
-				"basic": 100,
-				"hardened": 300,
-				"blazing": 1000,
-				"niotic": 3000,
-				"spirited": 10000,
-				"nitro": 24000
+				"starter": 80,
+				"basic": 200,
+				"hardened": 600,
+				"blazing": 2000,
+				"niotic": 6000,
+				"spirited": 20000,
+				"nitro": 48000
 			}
 		},
 		"thermo_generators": {
@@ -144,22 +144,22 @@
 				"nitro": 40000000
 			},
 			"transfer_rates": {
-				"starter": 320,
-				"basic": 640,
-				"hardened": 1600,
-				"blazing": 6400,
-				"niotic": 16000,
-				"spirited": 64000,
-				"nitro": 320000
+				"starter": 640,
+				"basic": 1280,
+				"hardened": 3200,
+				"blazing": 12800,
+				"niotic": 32000,
+				"spirited": 128000,
+				"nitro": 640000
 			},
 			"generation_rates": {
-				"starter": 20,
-				"basic": 40,
-				"hardened": 80,
-				"blazing": 160,
-				"niotic": 300,
-				"spirited": 800,
-				"nitro": 2400
+				"starter": 40,
+				"basic": 80,
+				"hardened": 160,
+				"blazing": 320,
+				"niotic": 600,
+				"spirited": 1600,
+				"nitro": 4800
 			}
 		}
 	},

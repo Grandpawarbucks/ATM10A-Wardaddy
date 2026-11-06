@@ -1,7 +1,7 @@
-// QoL: vanilla Furnace, Blast Furnace and Smoker recipes cook in half the time.
+// QoL: vanilla Furnace, Blast Furnace and Smoker recipes cook in a quarter of the time.
 // Change SPEED_MULTIPLIER to tune (2 = twice as fast). Recipes from mods that use these
 // vanilla recipe types are included too.
-const SPEED_MULTIPLIER = 2
+const SPEED_MULTIPLIER = 4
 
 ServerEvents.recipes(event => {
   let changed = 0

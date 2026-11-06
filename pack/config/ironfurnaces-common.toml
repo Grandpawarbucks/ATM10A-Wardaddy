@@ -29,12 +29,12 @@
 		# Default: 160
 		# Default: 160
 		# Range: 2 ~ 72000
-		speed = 80
+		speed = 40
 		# How much RF to generate per tick
 		# Default: 40
 		# Default: 40
 		# Range: 1 ~ 100000
-		generation = 80
+		generation = 160
 
 	[furnaces.copper_furnace]
 		# What tier this furnace should be.
@@ -47,12 +47,12 @@
 		# Default: 180
 		# Default: 180
 		# Range: 2 ~ 72000
-		speed = 90
+		speed = 45
 		# How much RF to generate per tick
 		# Default: 40
 		# Default: 40
 		# Range: 1 ~ 100000
-		generation = 80
+		generation = 160
 
 	[furnaces.gold_furnace]
 		# What tier this furnace should be.
@@ -65,12 +65,12 @@
 		# Default: 120
 		# Default: 120
 		# Range: 2 ~ 72000
-		speed = 60
+		speed = 30
 		# How much RF to generate per tick
 		# Default: 160
 		# Default: 160
 		# Range: 1 ~ 100000
-		generation = 320
+		generation = 640
 
 	[furnaces.diamond_furnace]
 		# What tier this furnace should be.
@@ -83,12 +83,12 @@
 		# Default: 80
 		# Default: 80
 		# Range: 2 ~ 72000
-		speed = 40
+		speed = 20
 		# How much RF to generate per tick
 		# Default: 240
 		# Default: 240
 		# Range: 1 ~ 100000
-		generation = 480
+		generation = 960
 
 	[furnaces.emerald_furnace]
 		# What tier this furnace should be.
@@ -101,12 +101,12 @@
 		# Default: 40
 		# Default: 40
 		# Range: 2 ~ 72000
-		speed = 20
+		speed = 10
 		# How much RF to generate per tick
 		# Default: 320
 		# Default: 320
 		# Range: 1 ~ 100000
-		generation = 640
+		generation = 1280
 
 	[furnaces.silver_furnace]
 		# What tier this furnace should be.
@@ -119,12 +119,12 @@
 		# Default: 140
 		# Default: 140
 		# Range: 2 ~ 72000
-		speed = 70
+		speed = 35
 		# How much RF to generate per tick
 		# Default: 100
 		# Default: 100
 		# Range: 1 ~ 100000
-		generation = 200
+		generation = 400
 
 	[furnaces.crystal_furnace]
 		# What tier this furnace should be.
@@ -137,12 +137,12 @@
 		# Default: 40
 		# Default: 40
 		# Range: 2 ~ 72000
-		speed = 20
+		speed = 10
 		# How much RF to generate per tick
 		# Default: 360
 		# Default: 360
 		# Range: 1 ~ 100000
-		generation = 720
+		generation = 1440
 
 	[furnaces.obsidian_furnace]
 		# What tier this furnace should be.
@@ -155,12 +155,12 @@
 		# Default: 20
 		# Default: 20
 		# Range: 2 ~ 72000
-		speed = 10
+		speed = 5
 		# How much RF to generate per tick
 		# Default: 500
 		# Default: 500
 		# Range: 1 ~ 100000
-		generation = 1000
+		generation = 2000
 
 	[furnaces.netherite_furnace]
 		# What tier this furnace should be.
@@ -173,12 +173,12 @@
 		# Default: 5
 		# Default: 5
 		# Range: 2 ~ 72000
-		speed = 3
+		speed = 2
 		# How much RF to generate per tick
 		# Default: 1000
 		# Default: 1000
 		# Range: 1 ~ 100000
-		generation = 2000
+		generation = 4000
 
 	[furnaces.million_furnace]
 		# What tier this furnace should be.
@@ -193,7 +193,7 @@
 		# Default: 20
 		# Default: 20
 		# Range: 2 ~ 72000
-		speed = 10
+		speed = 5
 		# How much power the Rainbow Furnace will generate.
 		# Default: 50000
 		# Default: 50000
@@ -203,7 +203,7 @@
 		# Default: 2000
 		# Default: 2000
 		# Range: 1 ~ 100000
-		generation = 4000
+		generation = 8000
 
 	[furnaces.recipeMaxXPLevel]
 		# How many levels of experience that can be stored in recipes stored in the furnace, after the experience stored in the recipe reaches this value (in levels) it will be voided.
@@ -222,7 +222,7 @@
 		# Default: 5
 		# Default: 5
 		# Range: 1 ~ 72000
-		speed = 3
+		speed = 1
 		# Number of items that can be smelted at once. The regular furnace only smelts 1 item at once of course.
 		# Default: 16
 		# Default: 16
@@ -232,7 +232,7 @@
 		# Default: 2000
 		# Default: 2000
 		# Range: 1 ~ 100000
-		generation = 4000
+		generation = 8000
 		# What tier this furnace should be.
 		# Default: 2
 		# Default: 2
@@ -245,7 +245,7 @@
 		# Default: 3
 		# Default: 3
 		# Range: 1 ~ 72000
-		speed = 2
+		speed = 1
 		# Number of items that can be smelted at once. The regular furnace only smelts 1 item at once of course.
 		# Default: 32
 		# Default: 32
@@ -255,7 +255,7 @@
 		# Default: 3000
 		# Default: 3000
 		# Range: 1 ~ 100000
-		generation = 6000
+		generation = 12000
 		# What tier this furnace should be.
 		# Default: 2
 		# Default: 2
@@ -278,7 +278,7 @@
 		# Default: 5000
 		# Default: 5000
 		# Range: 1 ~ 100000
-		generation = 10000
+		generation = 20000
 		# What tier this furnace should be.
 		# Default: 2
 		# Default: 2

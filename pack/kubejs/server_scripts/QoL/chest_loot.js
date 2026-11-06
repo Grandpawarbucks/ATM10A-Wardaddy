@@ -1,7 +1,9 @@
-// QoL: double the rolls of every structure/dungeon chest loot table. Requires the LootJS mod.
-// Lootr chests use these same tables, so they get the bonus too.
+// QoL: multiply the rolls of loot tables. Requires the LootJS mod.
+// - Chest tables (structures/dungeons) x3. Lootr chests use these same tables, so they get the bonus too.
+// - Entity tables (mob drops) x2.
 // Only constant and uniform roll counts are scaled; anything else is left unchanged.
-const LOOT_ROLL_MULTIPLIER = 2
+const CHEST_ROLL_MULTIPLIER = 3
+const ENTITY_ROLL_MULTIPLIER = 2
 
 const NUM = 'net.minecraft.world.level.storage.loot.providers.number.'
 const ConstantValue = Java.loadClass(NUM + 'ConstantValue')
@@ -28,35 +30,41 @@ function constantOf(p) {
   return (p != null && kindOf(p) == 'constant') ? Number(p.value()) : null
 }
 
-function scaleRolls(p) {
+function scaleRolls(p, mult) {
   if (p == null) return null
   let kind = kindOf(p)
-  if (kind == 'constant') return Number(p.value()) * LOOT_ROLL_MULTIPLIER
+  if (kind == 'constant') return Number(p.value()) * mult
   if (kind == 'uniform') {
     let min = constantOf(p.min())
     let max = constantOf(p.max())
-    return (min != null && max != null) ? [min * LOOT_ROLL_MULTIPLIER, max * LOOT_ROLL_MULTIPLIER] : null
+    return (min != null && max != null) ? [min * mult, max * mult] : null
   }
   return null
 }
 
 LootJS.lootTables(event => {
-  let tables = 0, pools = 0, skipped = 0
+  let stats = { chest: [0, 0, 0], entity: [0, 0, 0] } // tables, pools scaled, pools left as-is
   event.forEachTable(table => {
-    if (table.getLootType() != LootType.CHEST) return
-    tables++
+    let type = table.getLootType()
+    let key = null, mult = 1
+    if (type == LootType.CHEST) { key = 'chest'; mult = CHEST_ROLL_MULTIPLIER }
+    else if (type == LootType.ENTITY) { key = 'entity'; mult = ENTITY_ROLL_MULTIPLIER }
+    if (key == null) return
+    let st = stats[key]
+    st[0]++
     // Rhino (KubeJS's JS engine) treats `const` inside a try block in a repeatedly
     // called callback as a redeclaration, so use plain assignment to a let here.
     table.getPools().forEach(pool => {
       let scaled = null
       try {
-        scaled = scaleRolls(pool.getVanillaPool().getRolls())
-        if (scaled != null) { pool.rolls(scaled); pools++ } else skipped++
+        scaled = scaleRolls(pool.getVanillaPool().getRolls(), mult)
+        if (scaled != null) { pool.rolls(scaled); st[1]++ } else st[2]++
       } catch (e) {
-        skipped++
+        st[2]++
         console.warn(`[QoL loot] ${table.getLocation()}: ${e}`)
       }
     })
   })
-  console.info(`[QoL loot] chest tables: ${tables}, pools doubled: ${pools}, pools left as-is: ${skipped}`)
+  console.info(`[QoL loot] chest tables: ${stats.chest[0]}, pools x${CHEST_ROLL_MULTIPLIER}: ${stats.chest[1]}, pools left as-is: ${stats.chest[2]}`)
+  console.info(`[QoL loot] entity tables: ${stats.entity[0]}, pools x${ENTITY_ROLL_MULTIPLIER}: ${stats.entity[1]}, pools left as-is: ${stats.entity[2]}`)
 })
