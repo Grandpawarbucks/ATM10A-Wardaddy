@@ -24,6 +24,7 @@ Prism picks the right Java (21) automatically. The instance is set to 4–8 GB o
 - **Relics:** every relic (Relics and Reliquified Artifacts) is fully maxed the moment it reaches your inventory: max level and rank, all abilities unlocked and maxed, best stat rolls. Chests that can hold a relic now have one 60% of the time (stock is 20%).
 - **Apotheosis:** multi-level enchantments go up to level 127, the config maximum, from both enchanting and loot (except Quick Charge 5, Lure 8 and Frost Walker 11, which break or lag at high levels), and reforging is cheaper (upgrade: 1 sigil + 100 levels; reroll: 75 levels).
 - **Gear and storage:** Iron Jetpacks can be enchanted, every Sophisticated Backpack tier has 2 more upgrade slots, and the Mega Torch and Dread Lamp cover a 128-block radius.
+- **Roots:** oak leaves no longer drop Roots berries.
 - **Mods added:** LootJS, Entity Culling, Backpack Plus, Generator Galore, Trade Cycling, Cable Facades, Applied Flux, YUNG's Better Dungeons and YUNG's Better Mineshafts.
 
 ## For the maintainer
