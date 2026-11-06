@@ -270,7 +270,7 @@ hash = "d44a28ad5ba29bd441c06aa30938bc6ccac38d844a7517a9c965c99b67657abd"
 
 [[files]]
 file = "config/apotheosis/enchantments.cfg"
-hash = "8ff3f1a884ff93161c3554c6d792064d5f5560cbf28e3ba81ad8904acdff0833"
+hash = "95facffcf65fbce354e21f710b28e7d53cb22da110281b742cd7c2e5fac40b59"
 
 [[files]]
 file = "config/apotheosis/name_generation.cfg"
