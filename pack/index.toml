@@ -258,7 +258,7 @@ hash = "3838998b05a90dc1c6fb7845bccc2d49b25a486266f5a7e62ab579e7de04139f"
 
 [[files]]
 file = "config/apotheosis/apotheosis.cfg"
-hash = "ea5fc67fefb159e19bcd5b4e6a811a98be20ec7c8dd58bcac9b60840ac1ec298"
+hash = "d8eaefcec2e1d557798274e877c64342654ef793f4d2ec71382860160f838e30"
 
 [[files]]
 file = "config/apotheosis/apothic_attributes.cfg"
@@ -270,7 +270,7 @@ hash = "d44a28ad5ba29bd441c06aa30938bc6ccac38d844a7517a9c965c99b67657abd"
 
 [[files]]
 file = "config/apotheosis/enchantments.cfg"
-hash = "ba27618566fda3d4ef0f712a275e4741b0a3d437a987390bff115ea17ff570a7"
+hash = "8ff3f1a884ff93161c3554c6d792064d5f5560cbf28e3ba81ad8904acdff0833"
 
 [[files]]
 file = "config/apotheosis/name_generation.cfg"
