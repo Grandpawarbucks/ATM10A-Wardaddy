@@ -16685,6 +16685,10 @@ file = "kubejs/server_scripts/QoL/gamerules.js"
 hash = "cd03bde0772d6ba32fd1e7e76bfe6f0be2caf9444366bf04f8f58f098dac6ab8"
 
 [[files]]
+file = "kubejs/server_scripts/QoL/hammer_dust.js"
+hash = "aab23112a5852eb90c2073a2c5b59ba2b55db98214ee7f0fc10f2c0d9259f326"
+
+[[files]]
 file = "kubejs/server_scripts/QoL/max_relics.js"
 hash = "695e7c16714544053906e0381221d10cf01e2f71fbbd0c9c74a0293352a743fc"
 
