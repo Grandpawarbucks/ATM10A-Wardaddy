@@ -20,14 +20,22 @@ function kindOf(p) {
   return null
 }
 
+// Returns the scaled rolls as plain JS values that LootJS's pool.rolls() accepts:
+// a number for a constant roll count, or [min, max] for a uniform range.
+// Passing Java NumberProvider objects (ConstantValue/UniformGenerator) makes KubeJS's
+// type wrapper throw "Failed to read NumberProvider", which aborts the whole event.
+function constantOf(p) {
+  return (p != null && kindOf(p) == 'constant') ? Number(p.value()) : null
+}
+
 function scaleRolls(p) {
   if (p == null) return null
   const kind = kindOf(p)
-  if (kind == 'constant') return ConstantValue.exactly(p.value() * LOOT_ROLL_MULTIPLIER)
+  if (kind == 'constant') return Number(p.value()) * LOOT_ROLL_MULTIPLIER
   if (kind == 'uniform') {
-    const min = scaleRolls(p.min())
-    const max = scaleRolls(p.max())
-    return (min && max) ? new UniformGenerator(min, max) : null
+    const min = constantOf(p.min())
+    const max = constantOf(p.max())
+    return (min != null && max != null) ? [min * LOOT_ROLL_MULTIPLIER, max * LOOT_ROLL_MULTIPLIER] : null
   }
   return null
 }
@@ -40,7 +48,7 @@ LootJS.lootTables(event => {
     table.getPools().forEach(pool => {
       try {
         const scaled = scaleRolls(pool.getVanillaPool().getRolls())
-        if (scaled) { pool.rolls(scaled); pools++ } else skipped++
+        if (scaled != null) { pool.rolls(scaled); pools++ } else skipped++
       } catch (e) {
         skipped++
         console.warn(`[QoL loot] ${table.getLocation()}: ${e}`)
